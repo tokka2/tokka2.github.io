@@ -2,9 +2,8 @@
 layout: default
 title: Home
 ---
-
-<section class="home-wrap">
-	<div id="home">
+<div class="home-wrap" id="home">
+	<section class="">
 		<ul class="posts">
 			{% for post in paginator.posts %}
 			<li itemscope itemtype="http://schema.org/BlogPosting">
@@ -23,8 +22,8 @@ title: Home
 			</li>
 			{% endfor %}
 		</ul>
-	</div>
-</section>
+	</section>
+</div>
 
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
