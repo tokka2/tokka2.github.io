@@ -14,7 +14,10 @@ title: Home
 								itemprop="datePublished">
 							{{ post.date | date_to_string }}
 						</time>
-						<p itemprop="name headline">{{ post.title }}</p>
+						<h2 itemprop="name headline">{{ post.title }}</h2>
+						<div class="entry">
+							{{ post.excerpt }}
+						</div>
 					</div>
 				</a>
 			</li>
