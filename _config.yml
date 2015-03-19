@@ -1,74 +1,50 @@
-#
-# This file contains configuration flags to customize your site
-#
+# Title of your blog; shows in the header
+name: "Materi for jekyll"
 
-# Name of your site (displayed in the header)
-name: tokka joho 2
+# Description of your content (will only be used on Google Search)
+description: "Materi forked from 'hikari for Jekyll'. Apply theme like a Material Design, responsive blog theme for Jekyll"
 
-# Short bio or description (displayed in the header)
-description: tokka joho wo keisai
+# Your name. Will show in your footer + sidebar
+author: "ogaclejapan"
+lang: ja
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+url: "http://ogaclejapan.github.io"
+baseurl: "/materi-for-jekyll"
 
-#
-# Flags below are optional
-#
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
+author-bio: "Materi forked from https://github.com/m3xm/hikari-for-Jekyll. Apply theme like a Material Design and added some features. Thanks for coming :)"
 
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: tokka@ipon.biz
-  facebook:
-  flickr:
-  github: 
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: tokka2
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+# Social Accounts (mine, as placeholders)
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
+twitter: ogaclejapan
+github: ogaclejapan
+dribbble:
+instagram:
+googleplus: 115224314007024961072
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+# Google Analytics (you may want to changes these with yours or even delete :)
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url:
+ga_domain: ogaclejapan.github.io
+ga_tracking_id: UA-37241684-2
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
-
-#
-# !! You don't need to change any of the configuration flags below !!
-#
+# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
 markdown: redcarpet
+permalink: pretty
 highlighter: pygments
-permalink: /:title/
 
-# The release of Jekyll Now that you're using
-version: v1.1.0
+paginate: 5
+paginate_path: "/page/:num"
 
-# Set the Sass partials directory, as we're using @imports
+# SCSS
+
 sass:
-  style: :compressed # You might prefer to minify using :compressed
+  sass_dir: _scss
+  style: :compressed
 
-# Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+# Redcarpet
+redcarpet:
+  extensions: ["strikethrough", "tables", "fenced_code_blocks", "autolink"]
 
-# Exclude these files from your production _site
-exclude:
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
+# Exclude Files
+exclude: ["README.md", ".gitignore", "Gemfile", "Gemfile.lock", "art"]
