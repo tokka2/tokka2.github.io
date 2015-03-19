@@ -9,7 +9,7 @@ author: "ogaclejapan"
 lang: ja
 
 url: "http://ogaclejapan.github.io"
-baseurl: "/materi-for-jekyll"
+baseurl: ""
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "Materi forked from https://github.com/m3xm/hikari-for-Jekyll. Apply theme like a Material Design and added some features. Thanks for coming :)"
