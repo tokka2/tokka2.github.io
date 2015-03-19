@@ -1,14 +1,14 @@
 # Title of your blog; shows in the header
-name: "Materi for jekyll"
+name: "tokka joho 2"
 
 # Description of your content (will only be used on Google Search)
-description: "Materi forked from 'hikari for Jekyll'. Apply theme like a Material Design, responsive blog theme for Jekyll"
+description: "tokka joho wo keisaichu"
 
 # Your name. Will show in your footer + sidebar
-author: "ogaclejapan"
+author: "tokka2"
 lang: ja
 
-url: "http://ogaclejapan.github.io"
+url: "http://tokka2.github.io"
 baseurl: "/materi-for-jekyll"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
@@ -16,15 +16,15 @@ author-bio: "Materi forked from https://github.com/m3xm/hikari-for-Jekyll. Apply
 
 # Social Accounts (mine, as placeholders)
 
-twitter: ogaclejapan
-github: ogaclejapan
+twitter: tokka2
+github: 
 dribbble:
 instagram:
-googleplus: 115224314007024961072
+googleplus: 
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
-ga_domain: ogaclejapan.github.io
+ga_domain: tokka2.github.io
 ga_tracking_id: UA-37241684-2
 
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
