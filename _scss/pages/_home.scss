@@ -43,16 +43,6 @@
 				@media (min-width: 943px) {
 					padding-left: $spacing-m + $spacing-s;
 				}
-
-				&::after {
-					content:'\2192';
-					margin-left: $spacing-xs;
-					@media (max-width: 942px) {
-						content: none;
-						margin: 0;
-					}
-				}
-
 			}
 			p {
 				display: inline;
