@@ -210,7 +210,7 @@
 .post-header {
 	margin-bottom: $spacing-unit;
 	position: relative;
-	padding-right: 80px;
+	padding-left: 80px;
 }
 
 .post-title {
@@ -229,13 +229,28 @@
 }
 
 .post-date {
+	background-color: #88CCEF;
+	left: 0;
+	height: 70px;
+	top: 10px;
 	position: absolute;
 	width: 70px;
-	height: 70px;
-	text-align: center;
-	background-color: #88CCEF;
-	top: 0;
-	right: 0;
+	span {
+		display: block;
+		text-align: center;
+	}
+	&:before {
+		border-width: 7px;
+		border-style: solid;
+		border-color: transparent;
+		border-bottom-color: #91daff;
+		content: "";
+		height: 0;
+		left: 0;
+		position: absolute;
+		top: -14px;
+		width: 100%;
+	}
 }
 
 .post-link {
