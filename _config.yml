@@ -72,5 +72,4 @@ paginate: 5
 # SCSS
 
 sass:
-  sass_dir: _scss
   style: :compressed
