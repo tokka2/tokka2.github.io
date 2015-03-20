@@ -8,10 +8,10 @@
 
 .site-title {
 	font-size: 38px;
-	line-height: 2em;
+	line-height: 2;
 	margin-bottom: 0;
 	text-align:center;
-	a{
+	a {
 		&,
 		&:visited
 		&:hover {
@@ -19,9 +19,9 @@
 			border-bottom: 1px dotted;
 			text-decoration: none;
 		}
-		@include media-query($on-laptop) {
-			font-size: 26px;
-		}
+	}
+	@include media-query($on-laptop) {
+		font-size: 26px;
 	}
 }
 
@@ -73,6 +73,7 @@
 		background-color: #fff;
 		border: 1px solid $grey-color-light;
 		border-radius: 5px;
+		margin-top: 10px;
 
 		.menu-icon {
 			display: block;
@@ -179,15 +180,6 @@
 	font-size: 20px;
 }
 
-.post-meta {
-	font-size: $small-font-size;
-	color: $grey-color;
-}
-
-.post-link {
-	display: block;
-	font-size: 28px;
-}
 
 
 /**
@@ -226,6 +218,20 @@
 
 	@include media-query($on-laptop) {
 		font-size: 24px;
+	}
+}
+
+.post-meta {
+	font-size: $small-font-size;
+	color: $grey-color;
+}
+
+.post-link {
+	display: block;
+	font-size: 28px;
+	@include media-query($on-laptop) {
+		font-size: 22px;
+		line-height: 1.2;
 	}
 }
 
