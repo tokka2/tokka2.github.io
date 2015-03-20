@@ -3,15 +3,14 @@ layout: default
 ---
 <div class="post">
 	<div>
-		<ul class="breadcrumb">
-			<li>Home</li>
+		<ol class="breadcrumb">
+			<li><a href="{{ site.baseurl }}/">Home</a></li>
 			<li>
-			{{ site.locales[site.default_locale].PostedInCategories }}
 			{% for cat in page.categories %}
 			<a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>
 			{% endfor %}</li>
 			<li class="active">{{ page.title }}</li>
-		</ul>
+		</ol>
 	</div>
 
 	<header class="post-header">
