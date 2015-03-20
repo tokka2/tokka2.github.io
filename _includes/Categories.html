@@ -1,6 +1,6 @@
 <article class="sidebar-module">
 	<h2 class="sidebar-module-title">{{ site.locales[site.default_locale].Categories }}</h2>
-	<form>
+	<form class="category-select">
 		<select onChange="top.location.href=value">
 			<option value="#">カテゴリーを選択</option>
 			{% for cat in site.categories %}
