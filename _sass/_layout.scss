@@ -184,6 +184,18 @@
 }
 
 
+/**
+ * breadcrumb
+ */
+.breadcrumb {
+	li {
+		display: inline;
+		list-style-type: none;
+		&:after {
+			content: " > ";
+		}
+	}
+}
 
 /**
  * Posts
