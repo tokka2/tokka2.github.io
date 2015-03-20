@@ -188,12 +188,21 @@
  * breadcrumb
  */
 .breadcrumb {
+	margin: 0;
+	font-size: 0.8em;
+	line-height: 1.2;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
 	li {
 		display: inline;
 		list-style-type: none;
-		&:after {
+		&:not(:last-child):after {
 			content: " > ";
 		}
+	}
+	+ .post-header {
+		margin-top: 1em;
 	}
 }
 
