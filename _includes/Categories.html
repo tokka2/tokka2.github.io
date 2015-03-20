@@ -1,9 +1,9 @@
-<div class="sidebar-module">
-	<h4>{{ site.locales[site.default_locale].Categories }}</h4>
+<article class="sidebar-module">
+	<h2 class="sidebar-module-title">{{ site.locales[site.default_locale].Categories }}</h2>
 	<ul>
 		{% for cat in site.categories %}
 		<li><a href="{{ site.baseurl }}/categories/#{{ cat[0] }}" title="{{ cat[0] }}" rel="{{ cat[1].size }}">{{ cat[0] }} ({{ cat[1].size }})</a></li>
 		{% endfor %}
 	</ul>
-</div>
+</article>
 
