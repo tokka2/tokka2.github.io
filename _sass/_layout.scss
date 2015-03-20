@@ -230,14 +230,21 @@
 
 .post-date {
 	background-color: #88CCEF;
+	box-shadow: 0 3px 3px 0 rgba(0,0,0,0.1);
+	font-weight: bold;
 	left: 0;
-	height: 70px;
+	max-width: 75px;
 	top: 10px;
+	padding: 5px 15px;
 	position: absolute;
-	width: 70px;
 	span {
 		display: block;
+		color: #fff;
 		text-align: center;
+		line-height: 1.1;
+		.day{
+			font-size: 1.5em;
+		}
 	}
 	&:before {
 		border-width: 7px;
