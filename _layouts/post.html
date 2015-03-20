@@ -2,16 +2,14 @@
 layout: default
 ---
 <div class="post">
-	<div>
-		<ol class="breadcrumb">
-			<li><a href="{{ site.baseurl }}/">Home</a></li>
-			<li>
-			{% for cat in page.categories %}
-			<a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>
-			{% endfor %}</li>
-			<li class="active">{{ page.title }}</li>
-		</ol>
-	</div>
+	<ol class="breadcrumb">
+		<li><a href="{{ site.baseurl }}/">Home</a></li>
+		<li>
+		{% for cat in page.categories %}
+		<a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>
+		{% endfor %}</li>
+		<li class="active">{{ page.title }}</li>
+	</ol>
 
 	<header class="post-header">
 		<h1 class="post-title">{{ page.title }}</h1>
