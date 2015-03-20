@@ -2,7 +2,7 @@
 	<h2 class="sidebar-module-title">{{ site.locales[site.default_locale].Categories }}</h2>
 	<form>
 		<select onChange="top.location.href=value">
-			<option value="#"></option>
+			<option value="#">カテゴリーを選択</option>
 			{% for cat in site.categories %}
 			<option value="{{ site.baseurl }}/categories/#{{ cat[0] }}">{{ cat[0] }} ({{ cat[1].size }})</option>
 			{% endfor %}
