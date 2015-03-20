@@ -4,9 +4,12 @@ layout: default
 <div class="post">
 	<div>
 		<ul class="breadcrumb">
-			{% for path in page.parent_paths %}
-			<li><a href="{{ path }}">{{ page.parents[forloop.index0] }}</a> <span class="divider">/</span></li>
-			{% endfor %}
+			<li>Home</li>
+			<li>
+			{{ site.locales[site.default_locale].PostedInCategories }}
+			{% for cat in page.categories %}
+			<a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>
+			{% endfor %}</li>
 			<li class="active">{{ page.title }}</li>
 		</ul>
 	</div>
