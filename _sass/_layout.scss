@@ -209,6 +209,8 @@
  */
 .post-header {
 	margin-bottom: $spacing-unit;
+	position: relative;
+	padding-right: 80px;
 }
 
 .post-title {
@@ -224,6 +226,16 @@
 .post-meta {
 	font-size: $small-font-size;
 	color: $grey-color;
+}
+
+.post-date {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	text-align: center;
+	background-color: #88CCEF;
+	top: 0;
+	right: 0;
 }
 
 .post-link {
