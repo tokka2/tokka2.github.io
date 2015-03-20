@@ -44,16 +44,11 @@ ul, ol, dl, figure,
  */
 
 .container {
-	min-height:100%;
+	min-height: 100%;
 	max-width: -webkit-calc(#{$page-width} - (#{$spacing-unit} * 2));
 	max-width:         calc(#{$page-width} - (#{$spacing-unit} * 2));
 	margin-right: auto;
 	margin-left: auto;
-	padding-right: $spacing-unit;
-	padding-left: $spacing-unit;
-	padding-top: $spacing-unit;
-
-	margin-top:20px;
 	margin-bottom:30px;
 }
 
@@ -64,21 +59,20 @@ ul, ol, dl, figure,
 
 /*two columns*/
 .col-sm-8,.col-sm-2{
-	position:relative;
-	min-height:1px;
-	margin: 0px 15px;
+	position: relative;
+	min-height: 1px;
 }
 
 
 @media screen and (min-width : $on-palm) {
 	.col-sm-8 {
-		float:left;
-		width:65%;
+		float: left;
+		width: 65%;
 	}
 
 	.col-sm-2 {
-		float:right;
-		width:25%;
+		float: right;
+		width: 33%;
 	}
 }
 

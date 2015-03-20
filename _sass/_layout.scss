@@ -108,8 +108,8 @@
 
 .sidebar-module {
 	background-color: #fff;
-	padding: 15px;
-	margin: 0 -15px 15px;
+	padding: $spacing-unit;
+	margin-top: $spacing-unit;
 	font-size: 14px;
 	li{
 		text-transform: uppercase;
@@ -124,7 +124,7 @@
 	color: #fff;
 	font-weight: bold;
 	font-size: 1.3em;
-	margin: 5px -25px 15px;
+	margin: 5px -25px $spacing-unit;
 	padding: 5px;
 	position: relative;
 	text-align: center;
@@ -163,9 +163,10 @@
  * Page content
  */
 .page-content {
+	background-color: #fff;
+	margin-top: $spacing-unit;
 	padding: $spacing-unit $spacing-unit 0;
 	strong { font-weight: bold; }
-
 }
 
 .page-heading {
@@ -282,7 +283,7 @@
 /*time style of tages and categories*/
 
 time{
-	margin-left: 15px;
+	margin-left: $spacing-unit;
 	font-style: italic;
 }
 
