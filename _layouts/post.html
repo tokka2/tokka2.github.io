@@ -1,32 +1,46 @@
 ---
 layout: default
+is_blog: true
 ---
-<div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">
-    {{ site.locales[site.default_locale].PostedInCategories }}
-    {% for cat in page.categories %}
-    <a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>&nbsp;
-    {% endfor %} 
-    {% if page.tags != empty %}
-    {{ site.locales[site.default_locale].Taggedwith }}
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }} </a>{% unless page.tags.last == tag %}, {% endunless %}
-    {% endfor %}
-    {% endif %}
-    {{ site.locales[site.default_locale].PostDate }}{{ page.date | date: "%b %-d, %Y" }}
-    </p>
-  </header>
-
-  <article class="post-content">
-    {{ content }}
-  </article>
-  <hr />
+<div class="single-wrap">
+	<article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
+		<div class="feat">
+			<p class="page-date">
+				<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+					{{ page.date | date_to_long_string }}
+				</time>
+			</p>
+		</div>
+		<h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
+		<div itemprop="articleBody">
+			{{ content }}
+		</div>
+		{% if page.tags.size > 0 %}
+		<div class="page-tags">
+			<ul>
+				{% for tag in page.tags %}
+				<li>
+					{% if site.data.tags[tag] %}
+					<a href="{{ site.baseurl }}/tags/{{ tag }}">{{ site.data.tags[tag].name }}</a>
+					{% else %}
+					<a href="javascript:void(0);" class="disabled">{{ tag }}</a>
+					{% endif %}
+				</li>
+				{% endfor %}
+			</ul>
+		</div>
+		{% endif %}
+		<h6 class="back-to-top"><a href="#top">Back to Top</a></h6>
+		{% if page.next %}
+			<a rel="next" href="{{ site.baseurl }}{{ page.next.url }}" id="next">
+				<span class="nav-title nav-title-next">newer</span> &rarr;
+			</a>
+		{% endif %}
+		{% if page.previous %}
+			<a rel="prev" href="{{ site.baseurl }}{{ page.previous.url }}" id="prev">
+				&larr; <span class="nav-title nav-title-prev">older</span>
+			</a>
+		{% endif %}
+	</article>
 </div>
-
-
-{% include page_pagination.html%}
-{% include comments.html %}
-
