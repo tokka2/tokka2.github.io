@@ -1,46 +1,36 @@
 ---
 layout: default
-title: Home
 ---
 
-<section class="home-wrap">
-	<div id="home">
-		<ul class="posts">
-			{% for post in paginator.posts %}
-			<li itemscope itemtype="http://schema.org/BlogPosting">
-				<a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
-					<div class="p-wrap">
-						<time datetime="{{ post.date | date_to_xmlschema }}"
-								itemprop="datePublished">
-							{{ post.date | date_to_string }}
-						</time>
-						<h2 itemprop="name headline">{{ post.title }}</h2>
-						<div class="entry">
-							{{ post.excerpt }}
-						</div>
-					</div>
-				</a>
-			</li>
-			{% endfor %}
-		</ul>
-	</div>
-</section>
+<div class="home">
+  <div class="post">
+    
+    {% for post in paginator.posts %}
+  
+    <header class="post-header">
+      <h1 class="post-title">
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h1>
+      <p class="post-meta">
+      {{ site.locales[site.default_locale].PostedInCategories }}
+      {% for cat in post.categories %}
+      <a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>&nbsp;
+      {% endfor %}
+      {% if post.tags != empty %}
+      {{ site.locales[site.default_locale].Taggedwith }}
+      {% for tag in post.tags %}
+      <a href="{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }} </a>{% unless post.tags.last == tag %}, {% endunless %}
+      {% endfor %}
+      {% endif %}
+      {{ site.locales[site.default_locale].PostDate }}{{ post.date | date: "%b %-d, %Y" }}
+      </p>
+    </header>
 
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-	{% if paginator.next_page %}
-	<a href="{{ site.baseurl }}/page/{{paginator.next_page}}" class="older">Older</a>
-	{% else %}
-	<span class="next">Older</span>
-	{% endif %}
-	{% if paginator.previous_page %}
-		{% if paginator.page == 2 %}
-		<a href="{{ site.baseurl }}/" class="newer">Newer</a>
-		{% else %}
-		<a href="{{ site.baseurl }}/page/{{paginator.previous_page}}" class="newer">Newer</a>
-		{% endif %}
-	{% else %}
-	<span class="previous">Newer</span>
-	{% endif %}
+    <article class="post-content">
+      {{ post.content }}
+    </article> <hr />
+    
+    {% endfor %}
+  
+  </div>
 </div>
-{% endif %}
