@@ -192,7 +192,8 @@ a {
 }
 
 
-.post-content a{
+.post-content a,
+.page-content a {
 	color: $brand-color;
 	text-decoration: none;
 	border-bottom: 1px dotted;
@@ -326,7 +327,7 @@ table tr th :last-child, table tr td :last-child { margin-bottom: 0; }
  * line between each post on main page
  */
 
-hr{
+hr {
 	margin-bottom: 30px;
 	border: 0;
 	border-bottom: 1px dotted #ccc;
