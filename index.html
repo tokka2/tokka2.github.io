@@ -21,7 +21,7 @@ layout: default
 			{% endfor %}
 			{% endif %}
 			</p>
-			<p class="post-date"><span>{{ post.date | date: "%b" }}</span><span class="day">{{ post.date | date: "%-d" }}</span><span>{{ post.date | date: "%Y" }}</span></p>
+			<p class="post-date"><span>{{ post.date | date: "%Y.%-m" }}</span><span class="day">{{ post.date | date: "%-d" }}</span></p>
 		</div>
 
 		<div class="post-content">

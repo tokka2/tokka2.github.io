@@ -35,7 +35,7 @@
 }
 
 .site-nav {
-	line-height: 56px;
+	line-height: 2em;
 	border-top: 1px solid $grey-color-light;
 	border-bottom: 1px solid $grey-color-light;
 	text-align: center;
@@ -51,20 +51,11 @@
 
 		margin-left: 20px;
 		margin-right: 20px;
-		text-shadow: 0 1px 5px #666;
-
-	}
-
-	a {
-		text-decoration: none;
-
 		&:hover {
-			color: $text-color;
-			text-decoration: none;
-			//font-weight: bold;
+			color: #fff;
+			text-shadow: 0 1px 5px #666;
 		}
 	}
-
 
 	@include media-query($on-palm) {
 		position: relative;
@@ -154,12 +145,13 @@
 
 .site-footer {
 	clear: both;
+	color: #ccc;
 	text-align: center;
-	background-color: #f9f9f9;
-	border-top: 1px solid $grey-color-light;
-	margin: $spacing-unit 0;
 	padding: $spacing-unit 0;
 	font-size: 14px;
+	a {
+		color: #fff;
+	}
 }
 
 
@@ -242,7 +234,7 @@
 		line-height: 1.1;
 	}
 	.day {
-		font-size: 1.5em;
+		font-size: 2em;
 	}
 	&:before {
 		border-width: 7px;
