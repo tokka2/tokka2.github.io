@@ -21,6 +21,8 @@ body {
 	color: $text-color;
 	background-color: $background-color;
 	-webkit-text-size-adjust: 100%;
+	background-color: #434343;
+	background-image:linear-gradient(#434343, #282828);
 }
 
 
@@ -28,7 +30,7 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, 
+h1, h2, h3, h4,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
@@ -50,6 +52,9 @@ ul, ol, dl, figure,
 	margin-right: auto;
 	margin-left: auto;
 	margin-bottom:30px;
+	background-color: transparent;
+	background-image: linear-gradient(0deg, transparent 24%, rgba(255, 255, 255, .05) 25%, rgba(255, 255, 255, .05) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, .05) 75%, rgba(255, 255, 255, .05) 76%, transparent 77%, transparent), linear-gradient(90deg, transparent 24%, rgba(255, 255, 255, .05) 25%, rgba(255, 255, 255, .05) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, .05) 75%, rgba(255, 255, 255, .05) 76%, transparent 77%, transparent);
+	background-size:50px 50px;
 	@include media-query($on-laptop){
 		padding-left: $spacing-unit;
 		padding-right: $spacing-unit;
@@ -149,8 +154,8 @@ a {
 
 
 .post-content a{
-	color: $brand-color;    
-	text-decoration: none;  
+	color: $brand-color;
+	text-decoration: none;
 	border-bottom: 1px dotted;
 	&:visited {
 		color: darken($brand-color, 25%);
@@ -159,7 +164,7 @@ a {
 	&:hover {
 		color: $hover-color;
 		text-decoration: none;
-	}  
+	}
 
 }
 
@@ -203,7 +208,7 @@ code {
 
 pre {
 	padding: 8px 12px;
-	overflow: auto; 
+	overflow: auto;
 
 	> code {
 		border: 0;
@@ -251,9 +256,9 @@ pre {
  */
 
 
-table { 
+table {
 	padding: 0;
-	border-collapse: collapse; 
+	border-collapse: collapse;
 	font-size: $small-font-size;
 }
 table tr {
@@ -288,7 +293,7 @@ hr{
 	border-bottom: 1px dotted #ccc;
 }
 
-cite{ 
+cite{
 	font-style: italic;
 	text-decoration: underline;
 }
