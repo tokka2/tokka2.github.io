@@ -90,6 +90,7 @@
 		}
 
 		.page-link {
+			color: $grey-color;
 			display: block;
 			padding: 5px 10px;
 		}
@@ -225,7 +226,7 @@
 	left: 0;
 	max-width: 75px;
 	top: 10px;
-	padding: 5px 15px;
+	padding: 10px;
 	position: absolute;
 	span {
 		display: block;
@@ -338,7 +339,7 @@
 
 /*time style of tages and categories*/
 
-time{
+time {
 	margin-left: $spacing-unit;
 	font-style: italic;
 }
@@ -349,7 +350,7 @@ time{
  * Aboutme photo Style
  */
 
-.about{
+.about {
 	img {
 		height: 128px;
 		width: 128px;
