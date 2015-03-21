@@ -12,7 +12,7 @@ url: "http://tokka.github.io" # the base hostname & protocol for your site
 ### Personal info and site tools info:
 twitter_username: tokka2
 github_username:  tokka2
-disqus_shortname:
+disqus_shortname: tokka2
 favicon:     "/images/favicon.ico"
 aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/tokka2.gif" # your photo.
