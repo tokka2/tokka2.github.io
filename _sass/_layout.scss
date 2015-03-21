@@ -216,7 +216,7 @@
 .post-header {
 	padding-left: 80px;
 	@include media-query($on-laptop) {
-		padding-top: 30px;
+		padding-top: 45px;
 		padding-left: 0;
 	}
 }
@@ -248,6 +248,9 @@
 	position: absolute;
 	@include media-query($on-laptop) {
 		max-width: 100%;
+		padding: 2px 10px;
+		width: 100%;
+		text-align: center;
 	}
 	span {
 		display: block;
