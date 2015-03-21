@@ -34,6 +34,21 @@
 	}
 }
 
+.site-logo {
+	display: block;
+	height: 50px;
+	position: absolute;
+	width: 50px;
+	top: 10px;
+	left: 0;
+	img {
+		width: 100%;
+	}
+	@include media-query($on-laptop) {
+		display: none
+	}
+}
+
 .site-nav {
 	line-height: 2em;
 	border-top: 1px solid $grey-color-light;
