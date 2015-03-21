@@ -62,5 +62,15 @@ $n: transparent;
 	"svg-icons"
 ;
 
-@import url('http://fonts.googleapis.com/css?family=Open+Sans');
+@import url("http://fonts.googleapis.com/css?family=Open+Sans");
 
+@font-face {
+  font-family: 'fontello';
+  src: url("/font/fontello.eot");
+  src: url("/font/fontello.eot#iefix") format("embedded-opentype"),
+       url("/font/fontello.woff") format("woff"),
+       url("/font/fontello.ttf") format("truetype"),
+       url("/font/fontello.svg#fontello") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
