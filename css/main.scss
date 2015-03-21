@@ -14,7 +14,7 @@ $base-line-height: 1.6em;
 $spacing-unit:     15px;
 
 $text-color:       #111;
-$background-color: #92c7d6;
+$background-color: #58c;
 $brand-color:      #2a7ae2;
 $brand-top-color:  #2583ad;
 $hover-color:      #DD1144;
@@ -34,7 +34,10 @@ $page-width:       1000px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
+$c: #58c;
+$b: rgba(255,255,255,.2);
+$t: rgba(255,255,255,.1);
+$n: transparent;
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
