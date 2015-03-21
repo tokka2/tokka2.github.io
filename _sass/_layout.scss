@@ -108,7 +108,7 @@
 	padding: $spacing-unit;
 	margin-top: $spacing-unit;
 	font-size: 14px;
-	li{
+	li {
 		text-transform: uppercase;
 		line-height: 1.3;
 		margin-top: 10px;
@@ -196,14 +196,18 @@
 }
 
 /**
- * Posts
+ * Posts & Pages
  */
-.post-header {
+.post-header,
+.page-header {
 	margin-bottom: $spacing-unit;
 	position: relative;
+}
+.post-header {
 	padding-left: 80px;
 }
 
+.page-title,
 .post-title {
 	font-size: 38px;//42px;
 	letter-spacing: -1px;
