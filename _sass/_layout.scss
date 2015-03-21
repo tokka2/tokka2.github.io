@@ -215,13 +215,17 @@
 }
 .post-header {
 	padding-left: 80px;
+	@include media-query($on-laptop) {
+		padding-top: 30px;
+		padding-left: 0;
+	}
 }
 
 .page-title,
 .post-title {
 	font-size: 38px;//42px;
 	letter-spacing: -1px;
-	line-height: 1;
+	line-height: 1.2;
 
 	@include media-query($on-laptop) {
 		font-size: 24px;
@@ -242,14 +246,29 @@
 	top: 10px;
 	padding: 10px;
 	position: absolute;
+	@include media-query($on-laptop) {
+		max-width: 100%;
+	}
 	span {
 		display: block;
 		color: #fff;
 		text-align: center;
 		line-height: 1.1;
+		@include media-query($on-laptop) {
+			display: inline;
+		}
+	}
+	.year {
+		font-size: 0.8em;
 	}
 	.day {
 		font-size: 2em;
+		@include media-query($on-laptop) {
+			font-size: 1em;
+			&:before {
+				content: " ."
+			}
+		}
 	}
 	&:before {
 		border-width: 7px;
@@ -312,6 +331,10 @@
 			font-size: 18px;
 		}
 	}
+	@include media-query($on-laptop) {
+		padding-left: 0;
+		word-break: break-all;
+	}
 }
 
 
@@ -321,7 +344,7 @@
 
 .pager {
 	text-align: center;
-	ul { display: block; margin: 20px 0; }
+	ul { display: block; }
 	li{list-style: none;}
 	li.previous a{float:left;}
 	li.next a{float:right;}
@@ -340,7 +363,7 @@
 		width: 100%;
 	}
 }
-.tags-box{
+.tags-box {
 	li {
 		list-style: none;
 		font-weight: bold;
