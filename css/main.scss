@@ -47,18 +47,19 @@ $n: transparent;
 //     }
 // }
 @mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+	@media screen and (max-width: $device) {
+		@content;
+	}
 }
 
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "_syntax-highlighting-native" // "syntax-highlighting"
+	"base",
+	"layout",
+	"_syntax-highlighting-native", // "syntax-highlighting"
+	"svg-icons"
 ;
 
 @import url('http://fonts.googleapis.com/css?family=Open+Sans');
