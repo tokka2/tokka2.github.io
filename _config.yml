@@ -75,7 +75,6 @@ sass:
   style: :compressed
 
 social-links:
-  dribbble:
   email:
   facebook:
   flickr:
@@ -83,7 +82,7 @@ social-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: "/feed.xml"
   twitter: tokka2
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
