@@ -25,18 +25,13 @@ layout: default
 		{% endfor %}
 		{% endif %}
 		</p>
-		<div class="ninja_onebutton">
-		<script type="text/javascript">
-		//<![CDATA[
-		(function(d){
-		if(typeof(window.NINJA_CO_JP_ONETAG_BUTTON_24749e6410c29898fafd2d4cd8e7eeb6)=='undefined'){
-		        document.write("<sc"+"ript type='text\/javascript' src='http:\/\/omt.shinobi.jp\/b\/24749e6410c29898fafd2d4cd8e7eeb6'><\/sc"+"ript>");
-		}else{
-		    window.NINJA_CO_JP_ONETAG_BUTTON_24749e6410c29898fafd2d4cd8e7eeb6.ONETAGButton_Load();}
-		})(document);
-		//]]>
-		</script><span class="ninja_onebutton_hidden" style="display:none;"></span><span style="display:none;" class="ninja_onebutton_hidden"></span>
-		</div>
+		<ul>
+			<li><a data-pocket-label="pocket" data-pocket-count="vertical" class="pocket-btn" data-lang="en" data-save-url="<?php the_permalink(); ?>"></a></li>
+			<li><a href="https://twitter.com/share" class="twitter-share-button" data-lang="ja" data-count='vertical'>Tweet</a></li>
+			<li><div class="fb-like" expr:data-href="data:blog.url" data-layout="box_count" data-action="like" data-show-faces="false" data-share="false"/></div></li>
+			<li><div class="g-plusone" data-size="tall" data-href="<?php the_permalink(); ?>" ></div></li>
+			<li><a href="http://b.hatena.ne.jp/entry/<?php the_permalink(); ?>" class="hatena-bookmark-button" data-hatena-bookmark-title="<?php the_title(); ?>" data-hatena-bookmark-layout="vertical-balloon" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a></li>
+		</ul>
 		<p class="post-date"><span class="year">{{ page.date | date: "%Y.%-m" }}</span><span class="day">{{ page.date | date: "%-d" }}</span></p>
 	</header>
 
