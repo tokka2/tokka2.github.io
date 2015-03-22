@@ -67,8 +67,6 @@ html {
 	background-image: linear-gradient(to bottom, $c 0%, darken($c, 15%) 100%);
 }
 
-body {
-}
 
 /**
  * Basic styling
@@ -122,7 +120,7 @@ ul, ol, dl, figure,
 	margin-right: auto;
 	margin-left: auto;
 	min-height: 100%;
-	@include media-query($on-laptop){
+	@include media-query($on-laptop) {
 		padding-left: $spacing-unit;
 		padding-right: $spacing-unit;
 	}
@@ -135,7 +133,7 @@ ul, ol, dl, figure,
 }
 
 /*two columns*/
-.col-sm-8,.col-sm-2{
+.col-sm-8, .col-sm-2 {
 	position: relative;
 	min-height: 1px;
 }
@@ -241,7 +239,7 @@ a {
  * Blockquotes
  */
 
-blockquote{
+blockquote {
 	padding: 0 1em;
 	margin: 14px 0;
 	border: 2px dashed #d0dfda;
@@ -264,7 +262,7 @@ blockquote{
 /**
  * Code formatting
  */
-pre,code {
+pre, code {
 	font-size: 15px;
 	border-radius: 3px;
 	background-color: $code-backgroud-color;
@@ -362,7 +360,7 @@ hr {
 	border-bottom: 1px dotted #ccc;
 }
 
-cite{
+cite {
 	font-style: italic;
 	text-decoration: underline;
 }
