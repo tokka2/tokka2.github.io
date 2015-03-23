@@ -115,8 +115,7 @@ ul, ol, dl, figure,
 
 .container {
 	height: 100%;
-	max-width: -webkit-calc(#{$page-width} - (#{$spacing-unit} * 2));
-	max-width:         calc(#{$page-width} - (#{$spacing-unit} * 2));
+	max-width: $page-width;
 	margin-right: auto;
 	margin-left: auto;
 	min-height: 100%;
