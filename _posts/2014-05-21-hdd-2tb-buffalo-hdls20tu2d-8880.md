@@ -1,0 +1,54 @@
+---
+title: 外付けHDD 2TB BUFFALO HD-LS2.0TU2D 特価8,880円！送料無料！
+author: 激安・格安・特価情報ツウ
+layout: post
+permalink: /pcparts/outsidehdd/hdd-2tb-buffalo-hdls20tu2d-8880.html
+pvc_views:
+  - 6926
+a8affiliate_code:
+  - 
+a8image_link:
+  - 
+a8product:
+  - 
+a8shop:
+  - 
+a8price:
+  - 
+rakuten_affiliate_code:
+  - 
+rakuten_shop:
+  - 楽天店
+rakuten_product:
+  - 
+rakuten_price:
+  - 
+rakuten_affiliate_link:
+  - 
+categories:
+  - 外付けHDD
+---
+### バッファロー  
+ドライブステーション ターボPC EX2 Plus対応 USB2.0用 外付けHDD 2TB HD-LS2.0TU2D
+
+<div class="img-bg2 img_L">
+  <a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_ME14315475" target="_blank"><br /> <img border="0" alt="バッファロー ドライブステーション ターボPC EX2 Plus対応 USB2.0用 外付けHDD 2TB HD-LS2.0TU2D" src="http://i1.wp.com/image.nttxstore.jp/l2_images/M/ME/ME14315475.jpg?w=120" data-recalc-dims="1" /></a>
+</div>
+
+<!--more-->
+
+  * 「ターボPC EX2 プラス」により、保存容量最大20%UP&#038;書き込み時間がさらに短縮
+  * テレビやレコーダー等の幅広い機種に対応
+  * 2つの節電機能で、家計と環境にやさしい・「スーパーeco」で電源連動OFF時の消費電力を大幅削減・「ecoマネージャー」の省電力モードでHDDの消費電力が約3分の1
+  * パソコンに加えデジタル家電にもつながる・テレビやゲーム機につないで楽しさ広がる
+  * バッファローのHDDは、容量アップ&#038;高速化で快適さが違う
+  * 置き方が選べる。タテ置き・ヨコ置き両対応
+  * データを隠しウイルスや不正侵入から守る「Secure Lock +Guard」添付
+  * 本体背面にセキュリティースロットを搭載。盗難防止に役立ちます
+  * ビギナーに優しい簡単セットアップ「ドライブナビゲーター」添付
+  * 特定有害物質使用制限指令「RoHS指令」に準拠
+
+<br clear="all" />特価 9,000円(税込)+今だけ:120円割引 = <span class="tokka-price"><strong>8,880</strong></span> 円（税込）**送料無料**  
+＜価格比較サイト最安値：9,980円＞  
+  
+NTT-Xにて特価情報を見る： <span class="fs150p"><a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_ME14315475" target="_blank">バッファロー HD-LS2.0TU2D</a></span>

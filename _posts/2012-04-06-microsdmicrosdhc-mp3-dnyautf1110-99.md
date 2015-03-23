@@ -1,0 +1,98 @@
+---
+title: microSD/microSDHC専用 ミニMP3プレイヤー 上海問屋 DN-YAU-TF1110 特価99円！
+author: 激安・格安・特価情報ツウ
+excerpt: |
+  	[送料￥210～]
+  
+  【期間限定特価・お一人様1個限り】 上海問屋セレクト microSDHCカード(マイクロSDHCカード) 8GB Class4
+  	
+  	・ケータイの外部メモリとして使われている、microSDHC(マイクロSDHC)メモ
+layout: post
+permalink: /media-audio-player/microsdmicrosdhc-mp3-dnyautf1110-99.html
+syndication_source:
+  - 特価情報ツウ！
+syndication_source_uri:
+  - http://tokka.ipon.biz/
+syndication_source_id:
+  - http://feeds.feedburner.com/ipon/tokka
+"rss:comments":
+  - 'http://tokka.ipon.biz/modules/wordpress/index.php/archives/2011/12/26/sdhc8gb299/#comments'
+syndication_feed:
+  - http://feeds.feedburner.com/ipon/tokka
+syndication_permalink:
+  - http://feedproxy.google.com/~r/ipon/tokka/~3/aMjbRdudJ-M/
+syndication_item_hash:
+  - 2abaa8611e41937635fcd51bbb8b4b21
+  - 8b8ef6e3a0285b782b61033dd4c8164c
+  - 2c6dec8b6d4632c3e5ad1d5462fb0a46
+  - 2733f67956b1091ae834bfb9b9a72406
+  - c9406ccf8513b00a4fe4eedfe35465e5
+  - 2c1153664c976147f74df37dd63834b5
+  - 30993e0560c5d69eaaf41c8a6728fc52
+  - cc4b33161e4c0b62be198f4cff86361a
+  - b2548274e7837634547b93f3c2692de8
+  - a6e105aa0b9583d006faca0db3e1b5f9
+  - b36a5d2434f935e78184201479686bd7
+  - d22d1873d94f72f9c423294cada39227
+  - 64008c5d56a462f973442fcfa3505e07
+  - 455e0f916cf506b1795dda6d7f489d6d
+  - 16e59d0e2422a759108676225efbbb61
+  - 6f873d163545d3d66def178c77320035
+  - e543ddb268125bca0d2c5492c88f5b79
+  - 530da30f019a9983a79c2b59aac9e8de
+  - 42ffd795e34ce6ada4dd07484ed29604
+  - 6cd4868c6f9503b47d0c1bca34487f9d
+  - 3fd0fd18915656c45100ecee975b0471
+  - 990dbd8745e4bc643a93502081ce7202
+  - 4432dfe8e4ff8ad53834641d343f9fe6
+  - 3b66e61f64b018ae1fed56f7e82f326b
+  - 68e9df89c178663408dbb84d262a8d6e
+  - aac263c2dae592f7e2dadf225bd32a0c
+  - 75dcc5787502534ed8c8a0a3aa11cda6
+  - 356a35a6ec3266ee8ea44bbc00c7be2e
+  - e342be0924bfff799a876d83bc637dbb
+  - a2e69b31f50c092f00bc5a39b30c498f
+  - 337022244bb066029ff8b3007905cd09
+  - ae0e200c6b8aa044009cb64942d5be01
+  - 9f569cc562ac8dcdcfe695758b7d8552
+  - fe6079ae1cc5bf1d465f1c24b8255395
+  - 5596cb9b5afa30f370e777e9c85d2b72
+  - 9110eb8bb943b553bba277da8d7fb831
+  - 6f5aafb9f696233333ae6de93888523c
+  - 68e117c9827075ba79fdb0ad02558a24
+  - 0de103790b16a7efa8d3a4376a86f3d5
+  - c70b2f69658472694a9294fcd62be61d
+  - 8374f299d9f0a143426e11e562c9314e
+  - b20d9ef1e1801fa7663dc2cb8bd0a971
+  - a9270fd97e5f1ab5b91bfbba2f302f87
+  - fd9df30fd299fbd4bcbbbd7eeb5f8b8c
+  - a77116b4f57bc902a75505225cde6d4d
+  - 29793a4fe88c17ffea1c8998fa260ae3
+  - cad8fea2b1e9e89c729dc8a9dcdfe4c8
+pvc_views:
+  - 1029
+categories:
+  - メディアオーディオプレイヤー
+---
+【期間限定、お一人様一個限り】  
+
+
+### コンパクトでリーズナブルなMP3プレイヤー microSD/microSDHC専用 ミニMP3プレイヤー DN-YAU-TF1110
+
+<div class="img-bg2 img_L">
+  <a href="http://hb.afl.rakuten.co.jp/hgc/032ab3e9.5b793415.039e5bec.4fa1c071/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fdonya%2f68244%2f%3fscid%3daf_ich_link_img&#038;m=http%3a%2f%2fm.rakuten.co.jp%2fdonya%2fi%2f10924212%2f" target="_blank"><img src="http://hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fdonya%2fcabinet%2fitem14%2f68244-0.jpg%3f_ex%3d128x128&#038;m=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fdonya%2fcabinet%2fitem14%2f68244-0.jpg" border="0" title="" alt="" /></a>
+</div>
+
+<!--more-->
+
+  * MP3プレーヤーとしての機能は最低限の機能に限定
+  * 音楽ファイルが保存されているmicroSDをセットするだけ
+  * microSDをセットした状態でPC接続すればカードリーダーとしても使用可能
+  * 裏側はクリップ
+  * 電源は内蔵バッテリー
+
+販売期間 2012年04月06日05時00分～2012年04月08日10時00分<br clear="all" />期間限定、お一人様一個限り特価 <span class="tokka-price"><strong>99</strong></span>円 (税込)  
+  
+上海問屋 楽天市場店にて特価情報を見る： [<span class="fs150p">上海問屋 DN-YAU-TF1110</span>][1]
+
+ [1]: http://hb.afl.rakuten.co.jp/hgc/032ab3e9.5b793415.039e5bec.4fa1c071/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fdonya%2f68244%2f%3fscid%3daf_ich_link_img&#038;m=http%3a%2f%2fm.rakuten.co.jp%2fdonya%2fi%2f10924212%2f
