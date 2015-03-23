@@ -16,7 +16,7 @@ function initialize() {
 	feed.load(function(result) {
 		if (!result.error) {
 			//読み込みが成功したときの処理
-			var container = document.getElementById("feed");
+			var container = document.getElementById("recent-feed");
 			var htmlstr = "";
 			for (var i = 0; i < result.feed.entries.length; i++) {
 
