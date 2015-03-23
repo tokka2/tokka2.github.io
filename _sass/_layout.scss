@@ -55,10 +55,8 @@
 
 	.page-link {
 		color: #f0f0f0;
+		display: inline-block;
 		line-height: $base-line-height;
-
-		// Gaps between nav items, but not on the first one
-
 		margin-left: 20px;
 		margin-right: 20px;
 		&:hover {
