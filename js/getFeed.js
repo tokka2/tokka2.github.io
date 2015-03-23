@@ -36,8 +36,7 @@ function initialize() {
 				//html生成
 				htmlstr += '<li><a href="' + entry.link + '">';
 				htmlstr += '<span class="feed-image"><img ' + imgsrc + ' ></span>';
-				htmlstr += '<span class="feed-info">' + date + '| ' + entry.categories[0] + '</span>';
-				htmlstr += '<span class="feed-title">' + entry.title + '</span></a></li>';
+				htmlstr += '<span class="feed-info">' + date + '| ' + entry.categories[0] + '| ' + entry.title + '</span></a></li>';
 			}
 			container.innerHTML = htmlstr;
 		} else {
