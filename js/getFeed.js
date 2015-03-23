@@ -1,7 +1,7 @@
     google.load("feeds", "1");
 
     function initialize() {
-      var feed = new google.feeds.Feed("https://tokka2.github.ip/feed.xml");
+      var feed = new google.feeds.Feed("https://tokka2.github.io/feed.xml");
       feed.load(function(result) {
         if (!result.error) {
           var container = document.getElementById("feed");
