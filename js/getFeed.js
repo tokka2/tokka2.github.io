@@ -2,7 +2,7 @@
 google.load("feeds", "1");
 function initialize() {
 	//フィードの取得
-	var feed = new google.feeds.Feed("https://tokka2.github.io/feed.xml");
+	var feed = new google.feeds.Feed("https://tokka2.github.io/feed.xml" + "?" + (new Date()).getTime());
 
 	//エントリの表示数の設定
 	feed.setNumEntries(30);
