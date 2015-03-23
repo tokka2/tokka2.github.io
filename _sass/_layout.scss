@@ -178,7 +178,7 @@
 	bottom: 0;
 	right: 0;
 	img {
-		min-height: 100%;
+		max-height: 100%;
 	}
 	&:hover + .feed-info {
 		display: block;
@@ -193,21 +193,18 @@
 	position: absolute;
 	top: 100%;
 	z-index: 100;
-	&:before {
+	&:before, &:after {
 		content: "";
 		border: 12px solid transparent;
 		position: absolute;
 		right: 30%;
+	}
+	&:before {
 		border-bottom: 12px solid #aaa;
 		top: -24px;
 	}
 	&:after {
-		content: "";
-		border: 12px solid transparent;
-		position: absolute;
-		right: 30%;
 		border-bottom: 12px solid #fff;
-		position: absolute;
 		top: -23px;
 	}
 }
