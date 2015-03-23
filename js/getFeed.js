@@ -1,11 +1,14 @@
 //APIのモジュールを読み込み
 google.load("feeds", "1");
 function initialize() {
+
+	var d = new Date();
+	var dq = d.getMonth()+""+d.getDate()+""+d.getHours();
 	//フィードの取得
-	var feed = new google.feeds.Feed("https://tokka2.github.io/feed.xml" + "?" + (new Date()).getTime());
+	var feed = new google.feeds.Feed("https://tokka2.github.io/feed.xml" + "?" + dq);
 
 	//エントリの表示数の設定
-	feed.setNumEntries(30);
+	feed.setNumEntries(20);
 
 	//関数の定義
 	feed.load(function(result) {
@@ -35,7 +38,7 @@ function initialize() {
 
 				//html生成
 				htmlstr += '<li><a href="' + entry.link + '">';
-				htmlstr += '<span class="feed-image"><img ' + imgsrc + ' ></span>';
+				htmlstr += '<span><img ' + imgsrc + ' class="feed-image" /></span>';
 				htmlstr += '<span class="feed-info">' + date + '| ' + entry.categories[0] + '| ' + entry.title + '</span></a></li>';
 			}
 			container.innerHTML = htmlstr;
