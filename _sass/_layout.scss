@@ -188,11 +188,28 @@
 .feed-info {
 	background: #fff;
 	border: 1px solid #aaa;
-	display: none
+	display: none;
 	padding: 5px;
 	position: absolute;
 	top: 100%;
 	z-index: 100;
+	&:before {
+		content: "";
+		border: 12px solid transparent;
+		position: absolute;
+		right: 30%;
+		border-bottom: 12px solid #aaa;
+		top: -24px;
+	}
+	&:after {
+		content: "";
+		border: 12px solid transparent;
+		position: absolute;
+		right: 30%;
+		border-bottom: 12px solid #fff;
+		position: absolute;
+		top: -23px;
+	}
 }
 
 /**
