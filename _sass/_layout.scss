@@ -185,6 +185,16 @@
 	}
 }
 
+.feed-info {
+	background: #fff;
+	border: 1px solid #aaa;
+	display: none
+	padding: 5px;
+	position: absolute;
+	top: 100%;
+	z-index: 100;
+}
+
 /**
  * Site footer
  */
