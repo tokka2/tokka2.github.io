@@ -190,18 +190,20 @@
 	position: absolute;
 	top: 100%;
 	z-index: 100;
-	&:before, &:after {
+	&:before {
 		content: "";
 		border: 12px solid transparent;
 		position: absolute;
 		right: 30%;
-	}
-	&:before {
 		border-top: 12px solid #aaa;
 		top: -24px;
 		z-index: 1;
 	}
 	&:after {
+		content: "";
+		border: 12px solid transparent;
+		position: absolute;
+		right: 30%;
 		border-top: 12px solid #fff;
 		position: absolute;
 		top: -23px;
