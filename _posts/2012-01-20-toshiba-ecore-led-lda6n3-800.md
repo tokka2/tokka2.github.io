@@ -1,0 +1,49 @@
+---
+title: TOSHIBA E-CORE 密閉器具対応・フィンレス構造 LED電球 LDA6N/3 特価800円台！送料無料！
+author: 激安・格安・特価情報ツウ
+layout: post
+permalink: /free-shipping/toshiba-ecore-led-lda6n3-800.html
+pvc_views:
+  - 1251
+categories:
+  - LED電球
+  - 送料無料
+---
+<div class="amanatu-box" style="margin-bottom:0px;">
+  <div class="amanatu-image" style="float:left;">
+    <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B004Q7DN9S/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="http://i2.wp.com/ecx.images-amazon.com/images/I/51Fa1b-PkJL._SL160_.jpg?w=546" alt="TOSHIBA E-CORE(イー・コア) LED電球(密閉器具対応・フィンレス構造・E26口金・一般電球形・白熱電球30W相当・420ルーメン・昼白色) LDA6N/3" style="border: none;" data-recalc-dims="1" /></a>
+  </div>
+  
+  <div class="amanatu-info" style="float:left;margin-left:15px;line-height:120%">
+    <div class="amanatu-name" style="margin-bottom:10px;line-height:120%">
+      <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B004Q7DN9S/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank">TOSHIBA E-CORE(イー・コア) LED電球(密閉器具対応・フィンレス構造・E26口金・一般電球形・白熱電球30W相当・420ルーメン・昼白色) LDA6N/3</a> 
+      
+      <div class="amanatu-powered-date" style="font-size:7pt;margin-top:5px;font-family:verdana;line-height:120%">
+        posted with <a href="http://amanatu.com/amazon/asin/B004Q7DN9S/" title="TOSHIBA E-CORE(イー・コア) LED電球(密閉器具対応・フィンレス構造・E26口金・一般電球形・白熱電球30W相当・420ルーメン・昼白色) LDA6N/3" target="_blank">あまなつ</a> on 2012.01.20
+      </div>
+    </div>
+    
+    <div class="amanatu-price">
+      価格: <img src="http://amanatu.com/p/?a=B004Q7DN9S" style="border-style:none;" title="" alt="" /> <strong>通常送料無料</strong>
+    </div>
+    
+    <div class="amanatu-detail">
+      東芝(2011-03-01)<br />売り上げランキング: 185
+    </div>
+    
+    <div class="amanatu-link" style="margin-top: 5px">
+      <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B004Q7DN9S/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank">Amazon.co.jp で詳細を見る</a>
+    </div>
+  </div>
+  
+  <div class="amanatu-footer" style="clear: left">
+  </div>
+</div>
+
+<!--more-->
+
+  * フィンレス構造により軽量化を実現。
+  * 電球フォルムでコンパクト(外径60mm、全長108mm)。
+  * 中心から明るく、より白熱電球に近いあかり。
+  * 点灯直後からすぐに明るい。
+  * 発熱量が少ない。
