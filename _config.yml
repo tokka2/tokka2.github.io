@@ -4,9 +4,9 @@ tagline: さまざまな特価や激安・格安なネット通販の情報を�
 author: 激安・格安・特価情報ツウ！
 email: tokka@ipon.biz
 description: "さまざまな特価や激安・格安なネット通販の情報をブログで掲載中！PC・PC周辺機器・デジカメ・家電を主にAmazon、NTT-X、楽天などで" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
+keywords: "激安,格安,特価,アウトレット,商品,Amazon,楽天"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://tokka2.github.io" # the base hostname & protocol for your site
+url: "http://tokka.ipon.biz" # the base hostname & protocol for your site
 
 
 ### Personal info and site tools info:

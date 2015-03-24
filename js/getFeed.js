@@ -5,7 +5,7 @@ function initialize() {
 	var d = new Date();
 	var dq = d.getMonth()+""+d.getDate()+""+d.getHours();
 	//フィードの取得
-	var feed = new google.feeds.Feed("https://tokka2.github.io/feed.xml" + "?" + dq);
+	var feed = new google.feeds.Feed("http://tokka.ipon.biz/feed.xml" + "?" + dq);
 
 	//エントリの表示数の設定
 	feed.setNumEntries(20);
