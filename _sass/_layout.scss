@@ -180,6 +180,36 @@
 	}
 }
 
+.google-custum-searchbox {
+	tbody, tr, td {
+		border: none;
+		padding: 0;
+		margin: 0;
+	}
+	.gsc-input {
+		padding-right: 0;
+	}
+	.gsc-search-button {
+		background-color: #333;
+		border: none;
+		border-radius: 0;
+		height: 16px;
+		padding: 0 5px;
+		vertical-align: middle;
+		width: 25px;
+	}
+	.gsib_a {
+		padding: 0 5px;
+	}
+	.gsib_b {
+		padding: 0;
+	}
+	.gsc-input-box {
+		border: solid 1px #333;
+		height: 32px;
+		padding: 0;
+	}
+}
 .google-custum-searchresults {
 	background-color: #FFF;
 	height: 90%;
