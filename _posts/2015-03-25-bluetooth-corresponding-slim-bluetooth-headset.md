@@ -1,8 +1,10 @@
 ---
-title: マルチポイントに対応したBluetooth3.0対応スリムBluetoothヘッドセット 特価734円！送料無料！
+title: マルチポイントに対応したBluetooth3.0対応スリムBluetoothヘッドセット 特価734円！
 author: 激安・格安・特価情報ツウ
 layout: post
-permalink: /bluetooth/bluetooth-corresponding-slim-bluetooth-headset.html
+permalink: /bluetooth/bluetooth-corresponding-slim-bluetooth-headset-734.html
+pvc_views:
+  - 1001
 categories:
   - Bluetooth
   - ヘッドセット
