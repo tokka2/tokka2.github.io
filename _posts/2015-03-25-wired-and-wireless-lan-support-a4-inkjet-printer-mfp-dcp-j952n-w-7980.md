@@ -1,5 +1,5 @@
 ---
-title: 有線・無線LAN対応A4インクジェットプリンター複合機 DCP-J952N-W 箱汚れ特価7,980円！送料無料！
+title: 有線・無線LAN対応A4インクジェットプリンター複合機 DCP-J952N-W 箱汚れ激安特価7,980円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
 permalink: /printer/wired-and-wireless-lan-support-a4-inkjet-printer-mfp-dcp-j952n-w-7980.html
@@ -8,11 +8,9 @@ pvc_views:
 categories:
   - プリンター
 ---
-
 <div class="img-bg2 img_L">
   <a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_BR14430879" target="_blank"><br /> <img border="0" alt="ブラザー工業 【箱汚れ的特価】A4インクジェットプリンター複合機/白モデル DCP-J952N-W" src="http://image.nttxstore.jp/l2_images/B/BR/BR14430879.jpg" data-recalc-dims="1" /></a>
 </div>
-
 ### ブラザー工業 【箱汚れ的特価】A4インクジェットプリンター複合機/白モデル DCP-J952N-W
 <!--more-->
 
