@@ -14,7 +14,7 @@ twitter_username: tokka2
 github_username:  tokka2
 disqus_shortname: tokka2
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
+aboutme: 
 aboutme_photo: "/images/tokka2.gif" # your photo.
 
 
@@ -88,4 +88,4 @@ social-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: 
+google_analytics: UA-9401100-1
