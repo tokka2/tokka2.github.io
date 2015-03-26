@@ -2,7 +2,7 @@
 title: Android 5.0搭載 8.9型 LTEタブレット HTC Nexus 9 LTE 99HZJ004-00 がタイムセール激安特価51,000円台！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2015-03-26 11:33:10
+date: 2015-03-26 11:33:10 UTC+9
 permalink: /android/tablet/htc-nexus-9-lte-​​android-50-89inch-21off.html
 pvc_views:
   - 19738
@@ -11,7 +11,7 @@ categories:
   - タブレット
 ---
 <div class="img-bg2 img_L">
-<a href="http://www.amazon.co.jp/gp/product/B00PILCJA0/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=B00PILCJA0&linkCode=as2&tag=tokkajohotsu-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00PILCJA0&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokkajohotsu-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=tokkajohotsu-22&l=as2&o=9&a=B00PILCJA0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00PILCJA0/amanatu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31OobGO98VL._SL160_.jpg" alt="HTC Nexus 9 LTE ( Android 5.0 / 8.9inch IPS LCD / NVIDIA Tegra K1 / 32G / LTE対応 / nano SIM スロット / インディゴ ブラック ) 99HZJ004-00" style="border: none;" /></a>
 </div>
 
 *プロセッサー名 : Android 5.0 L
