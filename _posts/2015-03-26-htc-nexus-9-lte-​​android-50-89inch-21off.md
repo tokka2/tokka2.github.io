@@ -14,15 +14,15 @@ categories:
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00PILCJA0/amanatu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31OobGO98VL._SL160_.jpg" alt="HTC Nexus 9 LTE ( Android 5.0 / 8.9inch IPS LCD / NVIDIA Tegra K1 / 32G / LTE対応 / nano SIM スロット / インディゴ ブラック ) 99HZJ004-00" style="border: none;" /></a>
 </div>
 
-*プロセッサー名 : Android 5.0 L
-*CPU : 64 ビット NVIDIA Tegra K1 プロセッサ
-*液晶 : 8.9インチ TFTカラータッチスクリーンIPS液晶
-*前面デュアル スピーカー(HTC BoomSoundTM 機能)デュアルマイク 搭載
-*webカメラ搭載 : インカメラ…160万画素 アウトカメラ…800万画素
-*センサ : GPS、周囲光センサー、ジャイロ、加速度計、磁力計、NFC
-*無線LAN : IEEE 802.11ac 2×2(MIMO) ●Bluetooth 4.1
-*インターフェイス : microUSB2.0 ×1、ヘッドホンジャック ×1、nanoSIMスロット×1
-*電池 : 6700mAh
+* プロセッサー名 : Android 5.0 L
+* CPU : 64 ビット NVIDIA Tegra K1 プロセッサ
+* 液晶 : 8.9インチ TFTカラータッチスクリーンIPS液晶
+* 前面デュアル スピーカー(HTC BoomSoundTM 機能)デュアルマイク 搭載
+* webカメラ搭載 : インカメラ…160万画素 アウトカメラ…800万画素
+* センサ : GPS、周囲光センサー、ジャイロ、加速度計、磁力計、NFC
+* 無線LAN : IEEE 802.11ac 2×2(MIMO) ●Bluetooth 4.1
+* インターフェイス : microUSB2.0 ×1、ヘッドホンジャック ×1、nanoSIMスロット×1
+* 電池 : 6700mAh
 
 ### HTC Nexus 9 LTE ( Android 5.0 / 8.9inch IPS LCD / NVIDIA Tegra K1 / 32G / LTE対応 / nano SIM スロット / インディゴ ブラック ) 99HZJ004-00
 
