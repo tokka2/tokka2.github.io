@@ -2,7 +2,7 @@
 title: Android 5.0搭載 8.9型 LTEタブレット HTC Nexus 9 LTE 99HZJ004-00 がタイムセール激安特価51,000円台！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2015-03-26 15:33:10
+date: 2015-03-26 06:33:10
 permalink: /android/tablet/htc-nexus-9-lte-​​android-50-89inch-21off.html
 pvc_views:
   - 19738
