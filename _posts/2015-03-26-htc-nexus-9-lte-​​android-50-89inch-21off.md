@@ -11,7 +11,7 @@ categories:
   - タブレット
 ---
 <div class="img-bg2 img_L">
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00PILCJA0/amanatu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31OobGO98VL._SL160_.jpg" alt="HTC Nexus 9 LTE ( Android 5.0 / 8.9inch IPS LCD / NVIDIA Tegra K1 / 32G / LTE対応 / nano SIM スロット / インディゴ ブラック ) 99HZJ004-00" style="border: none;" /></a>
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00PILCJA0/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31OobGO98VL._SL160_.jpg" alt="HTC Nexus 9 LTE ( Android 5.0 / 8.9inch IPS LCD / NVIDIA Tegra K1 / 32G / LTE対応 / nano SIM スロット / インディゴ ブラック ) 99HZJ004-00" style="border: none;" /></a>
 </div>
 
 * プロセッサー名 : Android 5.0 L
