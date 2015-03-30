@@ -3,6 +3,7 @@ title: Core i5・フルHD液晶搭載 Lenovo 23インチ一体型 ThinkCentre M9
 author: 激安・格安・特価情報ツウ
 layout: post
 permalink: /desktop_pc/refurbishment-lenovo-23inch-integrated-thinkcentre-m90z-29990.html
+date: 2015-03-30 4:05:10
 categories:
   - デスクトップPC
 ---
