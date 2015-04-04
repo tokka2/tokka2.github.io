@@ -1,5 +1,5 @@
 ---
-title: エレコム 無線LANルーター/433+300Mbps/Giga/11ac/ブラック WRC-733GHBK 激安特価3,980円！送料無料！
+title: 11ac 433Mbps無線LANルーター エレコム WRC-733GHBK 激安特価3,980円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
 date: 2015-04-04 00:55:10
