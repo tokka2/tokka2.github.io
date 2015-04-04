@@ -24,7 +24,6 @@ layout: default
 		<a href="{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }} </a>{% unless page.tags.last == tag %}, {% endunless %}
 		{% endfor %}
 		{% endif %}
-		{{ page.date }}
 		</p>
 		<p class="post-date"><span class="year">{{ page.date | date: "%Y.%-m" }}</span><span class="day">{{ page.date | date: "%-d" }}</span></p>
 	</header>
