@@ -28,4 +28,4 @@ categories:
 <br clear="all" />3,015円(税込)+今だけ:35円割引 = 激安特価 <span class="tokka-price"><strong>2,980</strong></span> 円（税込）**送料無料**
 ＜価格比較サイト最安値：3,140円＞
 
-NTT-Xにて激安特価情報を見る： <a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_EL14831615" target="_blank"><span class="fs150p">東芝 PA17MSEK7L2AAS1</span></a>
+NTT-Xにて激安特価情報を見る： <a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_EL14831615" target="_blank"><span class="fs150p">エレコム M-XT1DRBK</span></a>
