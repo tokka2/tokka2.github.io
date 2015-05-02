@@ -44,7 +44,7 @@ function initialize() {
 			container.innerHTML = htmlstr;
 		} else {
 			//読み込みが失敗したときの処理
-			alert(result.error.code + ":" + result.error.message);
+			console.log(result.error.code + ":" + result.error.message);
 		}
 	});
 }
