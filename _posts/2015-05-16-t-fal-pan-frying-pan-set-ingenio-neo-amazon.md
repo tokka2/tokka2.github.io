@@ -8,7 +8,7 @@ categories:
   - キッチン
 ---
 <div class="img-bg2 img_L">
-  <a href="http://www.amazon.co.jp/gp/product/B00B1MKMQ8/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=B00B1MKMQ8&linkCode=as2&tag=tokkajohotsu-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00B1MKMQ8&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokkajohotsu-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=tokkajohotsu-22&l=as2&o=9&a=B00B1MKMQ8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00B1MKMQ8/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41S%2B33Lc6jL._SL160_.jpg" alt="T-fal鍋 フライパン セット 「インジニオ・ネオ」 取っ手の取れる サファイア セット9 L46693" style="border: none;" /></a>
 </div>
 
 ### T-fal 鍋 フライパン セット 「インジニオ・ネオ」 取っ手の取れる サファイア セット9 L46693
