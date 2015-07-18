@@ -2,7 +2,7 @@
 title: モバイルバッテリー 2個セット！大容量 12000mAh 激安特価1,998円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2015-07-11 03:10:10
+date: 2015-07-18 09:16:10
 permalink: /battery/12000mah-battery-2set-1998-rakuten.html
 categories:
   - バッテリー
