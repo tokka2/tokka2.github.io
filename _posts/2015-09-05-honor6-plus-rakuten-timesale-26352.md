@@ -2,7 +2,7 @@
 title: '【本日20時から】高スペックなLTE対応のSIMフリースマホ honor6 Plus 楽天スーパーSALE半額特価26,352円！送料無料！'
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2015-09-05 00:10:10
+date: 2015-09-05 03:10:10
 permalink: /smartphone/honor6-plus-rakuten-timesale-26352.html
 categories:
   - SIMフリー
