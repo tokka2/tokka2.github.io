@@ -2,7 +2,7 @@
 title: '【6日11時から】アイロボット iRobot ルンバ885 R885060 楽天スーパーSALE特価39,300円！送料無料！'
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2015-09-06 0:00:10
+date: 2015-09-06 0:00:20
 permalink: /vacuum_cleaner/irobot-rumba885-r885060-rakuten-timesale-39300.html
 categories:
   - 掃除機
