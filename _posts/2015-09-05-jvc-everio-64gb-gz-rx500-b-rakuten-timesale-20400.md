@@ -2,7 +2,7 @@
 title: '【本日21時から】ハイビジョンメモリームービー Everio 64GB GZ-RX500-B 楽天スーパーSALE半額特価20,400円！送料無料！'
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2015-09-05 00:20:10
+date: 2015-09-05 03:20:10
 permalink: /video-camera/jvc-everio-64gb-gz-rx500-b-rakuten-timesale-20400.html
 categories:
   - ビデオカメラ

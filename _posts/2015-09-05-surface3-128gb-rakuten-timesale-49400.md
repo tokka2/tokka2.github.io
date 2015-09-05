@@ -2,7 +2,7 @@
 title: '【本日19時半から】マイクロソフト 10.8インチ タブレット Surface 3 128GB Windows SIMフリー MSSAA2 楽天スーパーSALE特価49,400円！送料無料！'
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2015-09-05 00:00:10
+date: 2015-09-05 03:00:10
 permalink: /tablet_pc/surface3-128gb-rakuten-timesale-49400.html
 categories:
   - ノートPC
