@@ -1,5 +1,5 @@
 ---
-title: '【6日16時から】Apple MacBook Retina ディスプレイモデル 256GB 12インチ Core M MF855J/A 楽天スーパーSALE特価79,000円！送料無料！'
+title: '【本日16時から】Apple MacBook Retina ディスプレイモデル 256GB 12インチ Core M MF855J/A 楽天スーパーSALE特価79,000円！送料無料！'
 author: 激安・格安・特価情報ツウ
 layout: post
 date: 2015-09-06 3:10:00

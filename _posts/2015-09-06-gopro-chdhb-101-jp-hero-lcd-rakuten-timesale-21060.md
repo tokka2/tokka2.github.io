@@ -1,5 +1,5 @@
 ---
-title: '【6日13時から】GoPro CHDHB-101-JP HERO + LCD 楽天スーパーSALE特価21,060円！送料無料！'
+title: '【本日13時から】GoPro CHDHB-101-JP HERO + LCD 楽天スーパーSALE特価21,060円！送料無料！'
 author: 激安・格安・特価情報ツウ
 layout: post
 date: 2015-09-06 1:00:00
