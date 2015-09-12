@@ -11,7 +11,7 @@ permalink: /tablet/nec-versapro-typevs-pc-vk80asje5dfk-59800-nttx.hmtl
 </div>
 
 ### NEC▽VersaPro タイプVS PC-VK80ASJE5DFK
-#### 今ならネットギア SIMフリーモバイルルーター(AC785-100JPS)付き！
+**今ならネットギア SIMフリーモバイルルーター(AC785-100JPS)付き！**
 <!--more-->
 
 * OS：Windows 8.1 Pro Update 64bit
