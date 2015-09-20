@@ -1,5 +1,5 @@
 ---
-title: 【新品バルク】 32GB SANDISK microSDHCメモリーカード クラス4 UHS-I SD変換アダプタ付 [SDSDQAB-032G-BULK] 激安特価999円！
+title: SANDISK 32GB microSDHCメモリーカード 激安特価999円！
 author: 激安・格安・特価情報ツウ
 layout: post
 date: 2015-09-20 09:40:10
