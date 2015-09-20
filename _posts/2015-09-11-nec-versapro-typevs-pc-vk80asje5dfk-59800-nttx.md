@@ -4,6 +4,7 @@ author: 激安・格安・特価情報ツウ
 layout: post
 date: 2015-09-12 01:15:10
 permalink: /tablet/nec-versapro-typevs-pc-vk80asje5dfk-59800-nttx.hmtl
+categories:
   - タブレット
 ---
 <div class="img-bg2 img_L">
