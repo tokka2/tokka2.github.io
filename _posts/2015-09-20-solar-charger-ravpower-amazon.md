@@ -2,7 +2,7 @@
 title: 折りたたみ式ソーラーチャージャー(15W) 69％OFF激安特価4,899円台！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2015-09-12 04:05:10
+date: 2015-09-20 00:05:10
 permalink: /battery/solar-charger-ravpower-amazon.html
 categories:
   - バッテリー
