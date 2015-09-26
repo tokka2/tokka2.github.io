@@ -7,13 +7,13 @@ permalink: /tablet_pc/jenesis-holdings-geanee-10.1inch-windows8.1-with-bing-tabl
 categories:
   - タブレット PC
 ---
-### JENESIS HOLDINGS geanee 10.1インチ Windows8.1 with Bing タブレットPC WDP-102-2G32G-BT
-
 <div class="img-bg2 img_L">
   <a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_SM15023075" target="_blank"><br /> <img border="0" alt="JENESIS HOLDINGS geanee 10.1インチ Windows8.1 with Bing タブレットPC WDP-102-2G32G-BT" src="http://image.nttxstore.jp/l2_images/S/SM/SM15023075.jpg" data-recalc-dims="1" /></a>
 </div>
 
 <!--more-->
+### JENESIS HOLDINGS geanee 10.1インチ Windows8.1 with Bing タブレットPC WDP-102-2G32G-BT
+
 
 * Windows® 8.1搭載
 * インテル® Atom™プロセッサーを搭載。
