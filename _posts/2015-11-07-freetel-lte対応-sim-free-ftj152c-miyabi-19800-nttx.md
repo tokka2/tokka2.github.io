@@ -9,7 +9,7 @@ categories:
 ---
 
 <div class="img-bg2 img_L">
-  <a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_FR15181532" target="_blank"><br /> <img border="0" alt="FREETEL LTE対応 SIMフリー 5インチスマートフォン 雅 FTJ152C-Miyabi" src="http://image.nttxstore.jp/ls_images/F/FR/FR15181532.jpg?w=120" data-recalc-dims="1" /></a>
+  <a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_FR15181532" target="_blank"><img border="0" alt="FREETEL LTE対応 SIMフリー 5インチスマートフォン 雅 FTJ152C-Miyabi" src="http://image.nttxstore.jp/ls_images/F/FR/FR15181532.jpg" data-recalc-dims="1" /></a>
 </div>
 
 <!--more-->
