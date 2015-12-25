@@ -1,5 +1,5 @@
 ---
-title: BBDXL対応 USBポータブルBlu-rayドライブ 書き込みソフト付 BRXL-PC6VU2/N タイムセール特価4,980円！送料無料！
+title: BDXL対応 USBポータブルBlu-rayドライブ 書き込みソフト付 BRXL-PC6VU2/N タイムセール特価4,980円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
 date: 2015-12-26 00:00:10
