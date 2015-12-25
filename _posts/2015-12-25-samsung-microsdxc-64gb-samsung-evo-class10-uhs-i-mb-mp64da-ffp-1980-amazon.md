@@ -22,4 +22,4 @@ categories:
 * 最大転送速度:最大48MB/s / -
 * 使用用途:フルハイビジョン撮影、デジタルビデオカメラ、スマートフォンなど
 
-Amazonにて激安特価情報を見る： <a href="http://www.amazon.co.jp/gp/product/B012N51N96/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B012N51N96&linkCode=as2&tag=tokkajohotsu-22" target="_blank"><span class="fs150p">Samsung MB-MP64DA/FFP</span></a>
+Amazonにて激安特価情報を見る： <a href="http://www.amazon.co.jp/gp/product/B017SMDMIE/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B017SMDMIE&linkCode=as2&tag=tokkajohotsu-22" target="_blank"><span class="fs150p">Samsung MB-MP64DA/FFP</span></a>
