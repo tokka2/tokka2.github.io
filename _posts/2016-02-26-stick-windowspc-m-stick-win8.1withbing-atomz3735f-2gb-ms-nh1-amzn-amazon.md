@@ -2,7 +2,7 @@
 title: メモリ2GBのスティック型WindowsPCがタイムセール41%OFF特価7,980円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-02-27 10:20:10
+date: 2016-02-26 10:20:10
 permalink: /pc/stick-windowspc-m-stick-win8.1withbing-atomz3735f-2gb-ms-nh1-amzn-amazon.html
 categories:
   - PC

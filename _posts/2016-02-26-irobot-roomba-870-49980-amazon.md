@@ -2,7 +2,7 @@
 title: 自動掃除機ルンバ870が台数制限なしのタイムセール特価49,980円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-02-27 10:30:10
+date: 2016-02-26 10:30:10
 permalink: /cleaner/irobot-roomba-870-49980-amazon.html
 categories:
   - 掃除機
