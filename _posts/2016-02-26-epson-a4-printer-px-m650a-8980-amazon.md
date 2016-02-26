@@ -2,7 +2,7 @@
 title: 高耐久で両面印刷標準装備のA4ビジネス複合プリンター タイムセール54%OFF特価8,980円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-02-26 16:20:10
+date: 2016-02-26 12:20:10
 permalink: /pc-parts/epson-a4-printer-px-m650a-8980-amazon.html
 categories:
   - PC周辺機器

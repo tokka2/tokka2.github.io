@@ -2,7 +2,7 @@
 title: 3TBの内臓HDDが3年保障付きで タイムセール特価9,218円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-02-26 16:30:10
+date: 2016-02-26 11:30:10
 permalink: /hdd/seagate-hdd-barracuda-7200-3.5inch-sata-6gbs-3tb-7200rpm-st3000dm001-ewn-9218-amazon.html
 categories:
   - HDD
