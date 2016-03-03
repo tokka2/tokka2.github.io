@@ -12,8 +12,8 @@ categories:
   <a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_ME12892143" target="_blank"><img border="0" alt="バッファロー Giga対応 5ポート スイッチングHub LANケーブル付 LSW3-GT-5EP/CW" src="http://img.bestgate.net/?url=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F31Mq6KNSofL._SL160_.jpg" data-recalc-dims="1" /></a>
 </div>
 
-<!--more-->
 ### バッファロー Giga対応 5ポート スイッチングHub LANケーブル付 LSW3-GT-5EP/CW
+<!--more-->
 
 * 「おまかせ節電機能」対応の5ポートGigaスイッチングHubポートのリンク状態やLANケーブルの長さにより電力を自動調節・コンパクト筐体+ファンレスによる静音設計・マグネットと壁と取り付け穴を搭載により抜群の設置性・高信頼・安全設計でロングライフを実現
 * 高信頼の日本メーカー製電解コンデンサー採用

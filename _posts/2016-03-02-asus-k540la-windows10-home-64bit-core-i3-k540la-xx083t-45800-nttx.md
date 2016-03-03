@@ -12,8 +12,8 @@ categories:
   <a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_AZ15246751" target="_blank"><img border="0" alt="ASUS K540LA NTT-X Store限定モデル (15.6型ワイド/Windows10 Home 64bit/Core i3) ブラック/シャンパンゴールド K540LA-XX083T" src="http://image.nttxstore.jp/l2_images/A/AZ/AZ15246751.jpg" data-recalc-dims="1" /></a>
 </div>
 
-<!--more-->
 ### ASUS K540LA NTT-X Store限定モデル (15.6型ワイド/Windows10 Home 64bit/Core i3) ブラック/シャンパンゴールド K540LA-XX083T
+<!--more-->
 
 * 今ならESETパーソナルセキュリティプレゼントキャンペーンでお買い得！
 * OS：Windows 10 Home 64bit
