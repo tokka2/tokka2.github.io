@@ -9,7 +9,7 @@ categories:
 ---
 
 <div class="img-bg2 img_L">
-  <a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_QZX0011140" target="_blank"><img border="0" alt="マウスコンピューター【数量限定!超特価!】Windows10搭載 スティック型PC MS-NH1-W10" src="http://image.nttxstore.jp/l2_images/M/M7/M715109713.jpg" data-recalc-dims="1" /></a>
+<a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_QZX0011140" target="_blank"><img border="0" alt="マウスコンピューター【数量限定!超特価!】Windows10搭載 スティック型PC MS-NH1-W10" src="http://image.nttxstore.jp/l2_images/M/M7/M715109713.jpg" data-recalc-dims="1" /></a>
 </div>
 
 ### マウスコンピューター【数量限定!超特価!】Windows10搭載 スティック型PC MS-NH1-W10
