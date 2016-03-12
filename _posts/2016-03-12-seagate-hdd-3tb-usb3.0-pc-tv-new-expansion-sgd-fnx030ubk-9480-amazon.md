@@ -24,6 +24,6 @@ categories:
 * アクセスLED:○
 
 <br clear="all" />激安特価 <span class="tokka-price"><strong>9,480</strong></span> 円（税込）**送料無料**
-＜価格比較サイト最安値 他店： 5,497円＞
+＜価格比較サイト最安値 他店： 11,477円＞
 
 Amazonにて激安特価情報を見る： <span class="fs150p"><a href="http://www.amazon.co.jp/gp/product/B017I4RPJ4/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B017I4RPJ4&linkCode=as2&tag=tokkajohotsu-22" target="_blank">Seagate SGD-FNX030UBK</a></span>
