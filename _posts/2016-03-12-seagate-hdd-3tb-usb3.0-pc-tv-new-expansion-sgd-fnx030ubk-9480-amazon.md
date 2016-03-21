@@ -2,7 +2,7 @@
 title: USB外付けハードディスクがタイムセール63%OFF特価9,480円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-03-12 00:55:10
+date: 2016-03-12 01:55:10
 permalink: /hdd/seagate-hdd-3tb-usb3.0-pc-tv-new-expansion-sgd-fnx030ubk-9480-amazon.html
 categories:
   - USB外付けハードディスク

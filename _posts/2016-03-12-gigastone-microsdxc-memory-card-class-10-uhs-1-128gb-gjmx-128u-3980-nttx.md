@@ -2,7 +2,7 @@
 title: マイクロSDXCカードの128GBが激安特価3,980円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-03-12 00:45:10
+date: 2016-03-12 01:45:10
 permalink: /sdxc/gigastone-microsdxc-memory-card-class-10-uhs-1-128gb-gjmx-128u-3980-nttx.html
 categories:
   - Micro SDXCカード

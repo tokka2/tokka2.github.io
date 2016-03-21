@@ -2,7 +2,7 @@
 title: 目が光る モバイルバッテリー 6000mAhがタイムセール48%OFF特価2,600円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-03-12 00:55:30
+date: 2016-03-12 01:55:30
 permalink: /battery/cheero-power-plus-6000mah-danboard-version-mini-2600-amazon.html
 categories:
   - モバイルバッテリー
