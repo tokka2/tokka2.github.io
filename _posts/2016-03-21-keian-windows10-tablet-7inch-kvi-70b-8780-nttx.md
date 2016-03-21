@@ -2,7 +2,7 @@
 title: Windows10搭載 7インチタブレット KVI-70B 激安特価8,780円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-03-21 09:15:10
+date: 2016-03-21 08:45:10
 permalink: /tablet/keian-windows10-tablet-7inch-kvi-70b-8780-nttx.html
 categories:
   - タブレット
