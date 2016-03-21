@@ -9,7 +9,7 @@ categories:
 ---
 
 <div class="img-bg2 img_L">
-  <a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_EL15234066" target="_blank"><img border="0" alt="Gigastone MicroSDXC Memory Card Class 10 UHS-1 128GB GJMX/128U" src="http://image.nttxstore.jp/l2_images/E/EL/EL15234066.jpg" data-recalc-dims="1" /></a>
+  <a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_EL15234066" target="_blank"><img border="0" alt="エレコム(Seagate) 3.5インチ外付けハードディスクUSB3.0 3.0TB HD-SG3.0U3BK-D" src="http://image.nttxstore.jp/l2_images/E/EL/EL15234066.jpg" data-recalc-dims="1" /></a>
 </div>
 
 ### エレコム(Seagate) 3.5インチ外付けハードディスクUSB3.0 3.0TB HD-SG3.0U3BK-D
