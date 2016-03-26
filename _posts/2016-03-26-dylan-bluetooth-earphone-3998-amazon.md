@@ -5,7 +5,7 @@ layout: post
 date: 2016-03-26 014:50:10
 permalink: /bluetooth/dylan-bluetooth-earphone-3998-amazon.html
 categories:
-  - luetooth
+  - Bluetooth
 ---
 
 <div class="img-bg2 img_L">
