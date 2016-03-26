@@ -2,7 +2,7 @@
 title: ネックバンド式 折り畳み収納可能 Bluetooth イヤホン タイムセール特価3,998円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-03-26 014:50:10
+date: 2016-03-26 14:50:10
 permalink: /bluetooth/dylan-bluetooth-earphone-3998-amazon.html
 categories:
   - Bluetooth

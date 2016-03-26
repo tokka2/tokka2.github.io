@@ -2,7 +2,7 @@
 title: 【2時から】ZenFone 2 laser 8GBモデル（レッド）＋通話SIMカード（事務手数料込み） タイムセール特価13,932円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-03-26 015:15:10
+date: 2016-03-26 15:15:10
 permalink: /smartphone/zenfone-2-laser-8gb-13932-rakuten.html
 categories:
   - スマートフォン
