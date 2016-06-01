@@ -2,7 +2,7 @@
 title: Seagate 内蔵HDD 2TB タイムセール特価6,994円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-05-29 2:36:10
+date: 2016-06-01 13:36:10
 permalink: /hdd/seagate-hdd-barracuda-7200-3_5inch-sata-6gb_s-2tb-7200rpm--st2000dm001-ewn-6994-amazon.html
 categories:
   - 内蔵HDD
