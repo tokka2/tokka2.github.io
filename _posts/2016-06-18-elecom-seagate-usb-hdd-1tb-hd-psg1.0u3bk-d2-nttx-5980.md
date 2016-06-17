@@ -1,5 +1,5 @@
 ---
-title: エレコム(Seagate)2.5インチ外付けハードディスク/USB3.0/1.0TB/ブラック HD-PSG1.0U3BK-D2特価29,800円！送料無料！
+title: 2.5インチ外付けハードディスク 1.0TB HD-PSG1.0U3BK-D2 特価5,980円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
 date: 2016-06-17 22:30:10
@@ -9,7 +9,7 @@ categories:
 ---
 
 <div class="img-bg2 img_L">
-<a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_EL15234062" target="_blank"><img border="0" alt="エレコム(Seagate)2.5インチ外付けハードディスク/USB3.0/1.0TB/ブラック HD-PSG1.0U3BK-D2" src="http://image.nttxstore.jp/250_images/E/EL/EL15234062.jpg" data-recalc-dims="1" /></a>
+<a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_EL15234062" target="_blank"><img border="0" alt="エレコム(Seagate)2.5インチ外付けハードディスク/USB3.0/1.0TB/ブラック HD-PSG1.0U3BK-D2" src="http://image.nttxstore.jp/l2_images/E/EL/EL15234062.jpg" data-recalc-dims="1" /></a>
 </div>
 
 ### エレコム(Seagate)2.5インチ外付けハードディスク/USB3.0/1.0TB/ブラック HD-PSG1.0U3BK-D2
