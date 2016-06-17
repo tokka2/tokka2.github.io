@@ -2,7 +2,7 @@
 title: 2.5インチ外付けハードディスク 1.0TB HD-PSG1.0U3BK-D2 特価5,980円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-06-17 22:30:10
+date: 2016-06-17 21:30:10
 permalink: /hdd/elecom-seagate-usb-hdd-1tb-hd-psg1.0u3bk-d2-nttx-5980.html
 categories:
 - 外付けHDD
