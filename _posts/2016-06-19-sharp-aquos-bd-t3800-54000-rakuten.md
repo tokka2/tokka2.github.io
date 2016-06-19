@@ -2,7 +2,7 @@
 title: 3番組同時録画対応したBD/HDDレコーダー 3TB シャープ BD-T3800 タイムセール半額特価54,000円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-06-19 1:55:10
+date: 2016-06-19 1:53:10
 permalink: /bluray-recorder/sharp-aquos-bd-t3800-54000-rakuten.html
 categories:
   - スマートフォン
