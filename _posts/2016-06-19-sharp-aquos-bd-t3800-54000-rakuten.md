@@ -5,7 +5,7 @@ layout: post
 date: 2016-06-19 1:53:10
 permalink: /bluray-recorder/sharp-aquos-bd-t3800-54000-rakuten.html
 categories:
-  - スマートフォン
+  - BD/HDDレコーダー
 ---
 
 <div class="img-bg2 img_L">
