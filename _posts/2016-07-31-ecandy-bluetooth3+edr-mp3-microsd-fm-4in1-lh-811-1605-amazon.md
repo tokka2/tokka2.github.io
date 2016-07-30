@@ -1,5 +1,5 @@
 ---
-title: Ecandy ワイヤレス ステレオBluetooth3.0+ EDRヘッドセット マイク付MP3プレーヤー/MicroSD / TF 音楽 /FMラジオ 4in1 多機能 (金色) LH-811 タイムセール特価1,605円！送料無料！
+title: 4in1 Bluetooth ワイヤレスヘッドセット LH-811 タイムセール特価1,605円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
 date: 2016-07-30 22:23:10
