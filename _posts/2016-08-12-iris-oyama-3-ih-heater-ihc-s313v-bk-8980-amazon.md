@@ -5,7 +5,7 @@ layout: post
 date: 2016-08-12 8:43:10
 permalink: /ih-heater/iris-oyama-3-ih-heater-ihc-s313v-bk-8980-amazon.html
 categories:
-  - キーボード
+  - IHクッキングヒーター
 ---
 
 <div class="img-bg2 img_L">
