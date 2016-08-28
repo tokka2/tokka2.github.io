@@ -24,4 +24,4 @@ categories:
 
 <br clear="all" />激安特価 <span class="tokka-price"><strong>980</strong></span> 円（税込）**送料無料**
 
-Amazonにて激安特価情報を見る： <span class="fs150p"><a href="hhttps://www.amazon.co.jp/gp/product/B00CCYROLK/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B00CCYROLK&linkCode=as2&tag=tokkajohotsu-22" target="_blank">SoftBank SB-WS31-SBCO/BK</a></span>
+Amazonにて激安特価情報を見る： <span class="fs150p"><a href="https://www.amazon.co.jp/gp/product/B00CCYROLK/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B00CCYROLK&linkCode=as2&tag=tokkajohotsu-22" target="_blank">SoftBank SB-WS31-SBCO/BK</a></span>
