@@ -1,5 +1,5 @@
 ---
-title: 出張や旅行先のホテルの有線LANに繋ぐことで、手軽にWi-Fiが使える小型の無線LANルータ 超小型ホテル用ルータ 11bgn 150Mbps：WRH-150BK アウトレット特価734円！送料無料！
+title: 出張や旅行先のホテルの有線LANに繋ぐことで、手軽にWi-Fiが使える小型の無線LANルータ 11bgn 150Mbps：WRH-150BK アウトレット特価734円！
 author: 激安・格安・特価情報ツウ
 layout: post
 date: 2016-09-03 5:10:10
@@ -21,6 +21,6 @@ categories:
 * 同梱の設定情報シートに印字されたQRコードを読み取るだけで、面倒なキーの入力が不要となる、かんたんスマホ/タブレット設定アプリをApp storeならびにGoogle Play上にて提供。(名称:QR link)
 * パソコンのUSBポートから給電できるほか、別売のスマホ用ACアダプターからも給電できるので、幅広い電源に対応します。
 
-<br clear="all" />激安特価 <span class="tokka-price"><strong>734</strong></span> 円（税込）**送料無料**
+<br clear="all" />激安特価 <span class="tokka-price"><strong>734</strong></span> 円（税込）
 
 楽天にて激安特価情報を見る： <span class="fs150p"><a href="http://hb.afl.rakuten.co.jp/hgc/03dad0a3.8366a82c.03dad0a4.f334497d/?pc=http%3A%2F%2Fitem.rakuten.co.jp%2Felecom%2F4953103667631&m=http%3A%2F%2Fm.rakuten.co.jp%2Felecom%2Fi%2F10024400%2F&scid=af_item_img&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJkb3duIiwiY29tIjoxLCJjb21wIjoiZG93biIsInByaWNlIjoxLCJib3IiOjEsImNvbCI6MCwidGFyIjoxfQ%3D%3D" target="_blank">ELECOM WRH-150BK</a></span>
