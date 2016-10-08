@@ -22,6 +22,6 @@ categories:
 * 「軽量」シンプルなデザインで、エッジはアルミニウム合金を採用にしても、軽くて持ち運びやすい、全体的見ると美しいのが魅力です。
 * 「優れた音質のオーバーイヤヘッドホン」A2DP/AVR CP/HSP/HFPのBluetoothプロファイルに対応でき、オフィスや自宅、移動時などさまざまな場所で高音質な音を楽しむことができます。
 
-<br clear="all" />激安特価 <span class="tokka-price"><strong>980</strong></span> 円（税込）**送料無料**
+<br clear="all" />激安特価 <span class="tokka-price"><strong>5,799</strong></span> 円（税込）**送料無料**
 
 Amazonにて激安特価情報を見る： <span class="fs150p"><a href="https://www.amazon.co.jp/gp/product/B01HRH7HR2/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B01HRH7HR2&linkCode=as2&tag=tokkajohotsu-22" target="_blank">SoftBank SB-WS31-SBCO/BK</a></span>
