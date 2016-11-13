@@ -5,7 +5,7 @@ layout: post
 date: 2016-11-13 4:20:10
 permalink: /simfree/asus-zenfone2-laser-ze500kl-16gb-15984-rakuten.html
 categories:
-  - 液晶ディスプレイ
+  - SIMフリースマホ
 ---
 
 <div class="img-bg2 img_L">
