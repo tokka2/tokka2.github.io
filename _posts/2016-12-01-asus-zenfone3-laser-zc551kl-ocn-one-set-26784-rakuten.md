@@ -2,7 +2,7 @@
 title: フルHD＋4GB RAM の SIMフリースマホ ASUS ZenFone 3 Laser (ZC551KL)がOCNモバイルONEセットで特価26,784円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-12-01 4:00:10
+date: 2016-12-01 8:23:10
 permalink: /simfree/asus-zenfone3-laser-zc551kl-ocn-one-set-26784-rakuten.html
 categories:
   - SIMフリースマホ

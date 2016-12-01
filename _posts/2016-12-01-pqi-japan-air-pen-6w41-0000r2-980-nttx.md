@@ -2,7 +2,7 @@
 title: 軽量/小型のワイヤレスアクセスポイントAir Penが超特価！980円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-12-01 03:45:10
+date: 2016-12-01 08:22:10
 permalink: /wifi/pqi-japan-air-pen-6w41-0000r2-980-nttx.html
 categories:
 - ワイヤレスアクセスポイント
