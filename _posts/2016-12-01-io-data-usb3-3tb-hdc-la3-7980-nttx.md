@@ -9,7 +9,7 @@ categories:
 ---
 
 <div class="img-bg2 img_L">
-<a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_IO14660645" target="_blank"><img border="0" alt="PQI JAPAN モバイルバッテリー Power 5200M (ブラック) PB5MBK" src="http://image.nttxstore.jp/250_images/I/IO/IO14660645.jpg" data-recalc-dims="1" /></a>
+<a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_IO14660645" target="_blank"><img border="0" alt="アイ・オー・データ機器 USB 3.0/2.0接続 家電対応 縦・横置き両対応 外付ハードディスク 3.0TB HDC-LA3.0" src="http://image.nttxstore.jp/250_images/I/IO/IO14660645.jpg" data-recalc-dims="1" /></a>
 </div>
 
 ### アイ・オー・データ機器 USB 3.0/2.0接続 家電対応 縦・横置き両対応 外付ハードディスク 3.0TB HDC-LA3.0
