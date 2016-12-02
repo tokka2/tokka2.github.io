@@ -2,7 +2,7 @@
 title: Seagate 3.5インチ内蔵HDD 3TBが超特価！6,180円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-12-02 03:39:10
+date: 2016-12-02 10:02:10
 permalink: /hdd/seagate-desktop-hdd3.5-3tb-sata-6.0gbs-7200rpm-64mb-st3000dm001-6180-nttx.html
 categories:
 - 内蔵ハードディスク
