@@ -2,7 +2,7 @@
 title: IOデータ USB3.0対応 外付けハードディスク 3TBが超特価！7,980円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-12-01 08:21:10
+date: 2016-12-02 03:38:10
 permalink: /hdd/io-data-usb3-3tb-hdc-la3-7980-nttx.html
 categories:
 - 外付けハードディスク
