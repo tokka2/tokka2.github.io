@@ -600,8 +600,10 @@ q:after {
 }
 
 /**
+ * recent
  * ranklet
  */
+.recent-list,
 .ranklet-list {
 	border-bottom: 1px solid #CCC;
 	list-style: none;
@@ -612,13 +614,17 @@ q:after {
 		padding-bottom: 5px;
 		margin: 0;
 		font-size: 14px;
+		clear: both;
 	}
+}
+.ranklet-list {
 	> li:before {
 		counter-increment: ranking;
 		content: counter(ranking) "位";
 		float: left;
 	}
 }
+.recent-link,
 .ranklet-link {
 	overflow: hidden;
 	display: block;
@@ -630,4 +636,10 @@ q:after {
 	.sidebar-module-title {
 		font-size: 1.3em;
 	}
+}
+
+.recent-thumb {
+	float: right;
+	width: 50px;
+	height: 50px;
 }

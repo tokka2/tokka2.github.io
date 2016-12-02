@@ -5,8 +5,7 @@
 		<li>
 			<span class="recent-date">{{ post.date }}</span>
 			<a href="{{ post.url }}" class=""recent-link>
-			<span class="recent-title">{{ post.title }}</span>
-			<span class="recent-image">
+			<span class="recent-thumb">
 			{% assign foundImage = 0 %}
 			{% assign images = post.content | split:"<img " %}
 			{% for image in images %}
@@ -19,6 +18,7 @@
 			{% endif %}
 			{% endfor %}
 			</span>
+			<span class="recent-title">{{ post.title }}</span>
 			</a>
 		</li>
 	{% endfor %}
