@@ -637,7 +637,9 @@ q:after {
 		font-size: 1.3em;
 	}
 }
-
+.recent-title {
+	overflow: hidden;
+}
 .recent-thumb {
 	float: right;
 	width: 50px;
