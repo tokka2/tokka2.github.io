@@ -1,5 +1,14 @@
 <article class="sidebar-module">
 	<h2 class="sidebar-module-title">{{ site.locales[site.default_locale].Recent_Posts }}</h2>
 	<ul id="get-feed" class="recent-image"></ul>
+
+
+	<ul class="recent-list">
+	{% for post in site.posts limit:20 %}
+		<li>
+			<span class="recent-date">{{ post.date | date: "%-d" }}</span><a href="{{ post.url }}" class=""recent-link>{{ post.title }}</a>
+		</li>
+	{% endfor %}
+	</ul>
 </article>
 
