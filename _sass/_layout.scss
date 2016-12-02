@@ -605,12 +605,13 @@ q:after {
 .ranklet-list {
 	border-bottom: 1px solid #CCC;
 	list-style: none;
+	margin: 0
 	> li {
 		border-top: 1px solid #CCC;
-		counter-increment: ranking;
-		content: counter(ranking) "位";
-		+ li {
-			margin-top: 5px;
+		&:before {
+			counter-increment: ranking;
+			content: counter(ranking) "位";
+			padding: 5px
 		}
 	}
 }
