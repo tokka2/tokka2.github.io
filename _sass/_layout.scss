@@ -608,16 +608,23 @@ q:after {
 	margin: 0;
 	> li {
 		border-top: 1px solid #CCC;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		margin: 0;
 		font-size: 12px;
 	}
 	> li:before {
 		counter-increment: ranking;
 		content: counter(ranking) "位";
-		padding: 5px
+		float: left;
 	}
+}
+.ranklet-link {
+	overflow: hidden;
+	display: block;
+	padding-left: 5px;
 }
 .ranklet {
 	counter-reset: ranking;
-	background-color: #FFF;
-	padding: 10px
+	font-size: 10px;
 }
