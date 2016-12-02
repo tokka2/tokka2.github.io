@@ -598,3 +598,24 @@ q:after {
 .ninja-recommend-article-image-box a img {
 	max-width: 70px;
 }
+
+/**
+ * ranklet
+ */
+.ranklet-list {
+	border-bottom: 1px solid #CCC;
+	list-style: none;
+	> li {
+		border-top: 1px solid #CCC;
+		counter-increment: ranking;
+		content: counter(ranking) "位";
+		+ li {
+			margin-top: 5px;
+		}
+	}
+}
+.ranklet {
+	counter-reset: ranking;
+	background-color: #FFF;
+	padding: 10px
+}
