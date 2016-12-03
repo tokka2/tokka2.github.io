@@ -18,9 +18,9 @@ TOKKA.TOP.FIXED = {
 	bindEvent: function(){
 		var scrollValue = 0;
 		var _self = this;
-		this.$window.on('scroll', function(){
+		this.$window.on('scroll load', function(){
 			scrollValue = _self.$window.scrollTop();
-			if (scrollValue + _self.windowHeight > _self.targetTop && _self.$target.children().length > 0) {
+			if (_self.$target.children().length > 0) {
 				_self.$target.html(_self.contentHtml);
 			}
 			if (scrollValue > _self.targetTop) {
