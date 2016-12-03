@@ -20,10 +20,10 @@ TOKKA.TOP.FIXED = {
 		this.$window.on('scroll load', function(){
 			scrollValue = _self.$window.scrollTop();
 			console.log(_self.$target.children().length);
-			if (_self.$target.children().length > 0) {
+			if (_self.$target.children().length === 0) {
 				_self.$target.html(_self.contentHtml);
 			}
-			if (scrollValue > this.$target.offset().top) {
+			if (scrollValue > _self.$target.offset().top) {
 				console.log(scrollValue);
 				console.log(_self.targetTop);
 				_self.$target.addClass('isFixed');
