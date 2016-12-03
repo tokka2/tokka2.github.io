@@ -9,6 +9,7 @@ TOKKA.TOP.FIXED = {
 	},
 	setParameters: function(){
 		this.$window = $(window);
+		this.windowHeight = this.$window.height()
 		this.$contents = $('.jsc-fixed-contents');
 		this.$target = $('.jsc-fixed-widget');
 		this.targetTop = this.$target.offset().top;
@@ -18,13 +19,16 @@ TOKKA.TOP.FIXED = {
 		var scrollValue = 0;
 		var _self = this;
 		this.$window.on('scroll', function(){
-			scrollValue = this.$window.scrollTop();
+			scrollValue = _self.$window.scrollTop();
+			if (scrollValue + _self.windowHeight > _self.targetTop && _self.$target.children().length > 0) {
+				_self.$target.html(_self.contentHtml);
+			}
 			if (scrollValue > _self.targetTop) {
 				console.log(scrollValue);
 				console.log(_self.targetTop);
-				this.$target.addClass('isFixed');
+				_self.$target.addClass('isFixed');
 			} else {
-				this.$target.removeClass('isFixed');
+				_self.$target.removeClass('isFixed');
 			}
 		});
 	}
