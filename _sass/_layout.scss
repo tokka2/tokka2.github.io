@@ -156,6 +156,12 @@
 	}
 }
 
+.sidebar-module.pc {
+	display: none
+	@include media-query($on-laptop) {
+		display: block
+	}
+}
 .sidebar-module.isFided {
 	position: fixed;
 	top: 0;
