@@ -8,7 +8,7 @@ categories:
   - microSDカード
 ---
 <div class="img-bg2 img_L">
-  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00S66Q0E0/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41GXPu8Q3XL._SL160_.jpg" alt="microSDカード 64GB SAMSUNG EVO Class10 UHS-I対応 (最大転送速度48MB/s) 10年保証 MB-MP64D/FFP 【日本サムスン正規品】" style="border: none;" /></a>
+  <a href="//www.amazon.co.jp/exec/obidos/ASIN/B00S66Q0E0/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="//ecx.images-amazon.com/images/I/41GXPu8Q3XL._SL160_.jpg" alt="microSDカード 64GB SAMSUNG EVO Class10 UHS-I対応 (最大転送速度48MB/s) 10年保証 MB-MP64D/FFP 【日本サムスン正規品】" style="border: none;" /></a>
 </div>
 
 ### microSDカード 64GB SAMSUNG EVO Class10 UHS-I対応 (最大転送速度48MB/s) 10年保証 MB-MP64D/FFP 【日本サムスン正規品】
@@ -20,4 +20,4 @@ categories:
 * 防水、耐温度、耐磁、耐X線の4つのデータ保護技術で貴重なデータを保護
 * 安心の10年保証と日本語電話サポート完備
 
-Amazonにて激安特価情報を見る： <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00S66Q0E0/tokkajohotsu-22/ref=nosim/" target="_blank"><span class="fs150p">SAMSUNG MB-MP64D/FFP</span></a>
+Amazonにて激安特価情報を見る： <a href="//www.amazon.co.jp/exec/obidos/ASIN/B00S66Q0E0/tokkajohotsu-22/ref=nosim/" target="_blank"><span class="fs150p">SAMSUNG MB-MP64D/FFP</span></a>

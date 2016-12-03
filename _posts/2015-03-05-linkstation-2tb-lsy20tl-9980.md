@@ -6,33 +6,33 @@ permalink: /pcparts/nas/linkstation-2tb-lsy20tl-9980.html
 pvc_views:
   - 19038
 a8affiliate_code:
-  - 
+  -
 a8image_link:
-  - 
+  -
 a8product:
-  - 
+  -
 a8shop:
-  - 
+  -
 a8price:
-  - 
+  -
 rakuten_affiliate_code:
-  - 
+  -
 rakuten_shop:
   - 楽天店
 rakuten_product:
-  - 
+  -
 rakuten_price:
-  - 
+  -
 rakuten_affiliate_link:
-  - 
+  -
 categories:
   - NAS
 ---
-### バッファロー LinkStation  
+### バッファロー LinkStation
 リンクステーション ネットワーク対応ハードディスク 2TB LS-Y2.0TL
 
 <div class="img-bg2 img_L">
-  <a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_ME14409462" target="_blank"><br /> <img border="0" alt="バッファロー LinkStation リンクステーション ネットワーク対応ハードディスク 2TB LS-Y2.0TL" src="http://i0.wp.com/image.nttxstore.jp/l2_images/M/ME/ME14409462.jpg?w=120" data-recalc-dims="1" /></a>
+  <a href="//px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=//nttxstore.jp/_II_ME14409462" target="_blank"><br /> <img border="0" alt="バッファロー LinkStation リンクステーション ネットワーク対応ハードディスク 2TB LS-Y2.0TL" src="//i0.wp.com/image.nttxstore.jp/l2_images/M/ME/ME14409462.jpg?w=120" data-recalc-dims="1" /></a>
 </div>
 
 <!--more-->
@@ -56,7 +56,7 @@ categories:
   * ファイルの誤消去を防止
   * 特定有害物質使用制限指令「RoHS指令」に準拠
 
-<br clear="all" />激安特価 <span class="tokka-price"><strong>9,980</strong></span> 円（税込）**送料無料**  
-＜価格比較サイト最安値 他店：12,000円＞  
-  
-NTT-Xにて激安特価情報を見る： <span class="fs150p"><a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_ME14409462" target="_blank">バッファロー LS-Y2.0TL</a></span>
+<br clear="all" />激安特価 <span class="tokka-price"><strong>9,980</strong></span> 円（税込）**送料無料**
+＜価格比較サイト最安値 他店：12,000円＞
+
+NTT-Xにて激安特価情報を見る： <span class="fs150p"><a href="//px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=//nttxstore.jp/_II_ME14409462" target="_blank">バッファロー LS-Y2.0TL</a></span>

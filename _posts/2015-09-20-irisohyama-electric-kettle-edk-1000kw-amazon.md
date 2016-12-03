@@ -8,7 +8,7 @@ categories:
   - 電動ケトル
 ---
 <div class="img-bg2 img_L">
-  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B005MWZZP6/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41PfTRVCmWL._SL160_.jpg" alt="アイリスオーヤマ 電気ケトル 2重構造タイプ ホワイト/グレー EDK-1000KW" style="border: none;" /></a>
+  <a href="//www.amazon.co.jp/exec/obidos/ASIN/B005MWZZP6/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="//ecx.images-amazon.com/images/I/41PfTRVCmWL._SL160_.jpg" alt="アイリスオーヤマ 電気ケトル 2重構造タイプ ホワイト/グレー EDK-1000KW" style="border: none;" /></a>
 </div>
 
 ### アイリスオーヤマ 電気ケトル 2重構造タイプ ホワイト/グレー EDK-1000KW
@@ -23,4 +23,4 @@ categories:
 * 電源スイッチの位置を誤作動しにくい所に配置
 * 本体と電源プレートがセパレート式になっているので、本体の持ち運びがしやすい
 
-Amazonにて激安特価情報を見る： <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B005MWZZP6/tokkajohotsu-22/ref=nosim/" target="_blank"><span class="fs150p">アイリスオーヤマ EDK-1000KW</span></a>
+Amazonにて激安特価情報を見る： <a href="//www.amazon.co.jp/exec/obidos/ASIN/B005MWZZP6/tokkajohotsu-22/ref=nosim/" target="_blank"><span class="fs150p">アイリスオーヤマ EDK-1000KW</span></a>

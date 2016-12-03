@@ -9,7 +9,7 @@ categories:
 ---
 
 <div class="img-bg2 img_L">
-<a href="http://hb.afl.rakuten.co.jp/hgc/144ce85d.4734cfb5.144ce85e.55a381ab/?pc=http%3a%2f%2fitem.rakuten.co.jp%2frakutenmobile%2fzenfone2laser_8gb_ss_red%2f%3fscid%3daf_link_img&amp;m=http%3a%2f%2fm.rakuten.co.jp%2frakutenmobile%2fi%2f10000133%2f" target="_blank"><img src ="http://hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2frakutenmobile%2fcabinet%2fevent%2f201603_ss%2flaser_8gb_red_01_2.jpg%3f_ex%3d240x240&amp;m=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2frakutenmobile%2fcabinet%2fevent%2f201603_ss%2flaser_8gb_red_01_2.jpg%3f_ex%3d80x80" border="0"></a>
+<a href="//hb.afl.rakuten.co.jp/hgc/144ce85d.4734cfb5.144ce85e.55a381ab/?pc=http%3a%2f%2fitem.rakuten.co.jp%2frakutenmobile%2fzenfone2laser_8gb_ss_red%2f%3fscid%3daf_link_img&amp;m=http%3a%2f%2fm.rakuten.co.jp%2frakutenmobile%2fi%2f10000133%2f" target="_blank"><img src ="//hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2frakutenmobile%2fcabinet%2fevent%2f201603_ss%2flaser_8gb_red_01_2.jpg%3f_ex%3d240x240&amp;m=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2frakutenmobile%2fcabinet%2fevent%2f201603_ss%2flaser_8gb_red_01_2.jpg%3f_ex%3d80x80" border="0"></a>
 </div>
 
 ### ZenFone 2 laser 8GBモデル（レッド）＋通話SIMカード（事務手数料込み）
@@ -26,4 +26,4 @@ categories:
 <br clear="all" />販売期間	2016年03月27日02時00分～2016年03月27日08時59分
 タイムセール激安特価 <span class="tokka-price"><strong>13,932</strong></span> 円（税込）**送料無料**
 
-楽天にて激安特価情報を見る： <span class="fs150p"><a href="http://hb.afl.rakuten.co.jp/hgc/144ce85d.4734cfb5.144ce85e.55a381ab/?pc=http%3a%2f%2fitem.rakuten.co.jp%2frakutenmobile%2fzenfone2laser_8gb_ss_red%2f%3fscid%3daf_link_img&amp;m=http%3a%2f%2fm.rakuten.co.jp%2frakutenmobile%2fi%2f10000133%2f" target="_blank">ZenFone 2 laser 8GB</a></span>
+楽天にて激安特価情報を見る： <span class="fs150p"><a href="//hb.afl.rakuten.co.jp/hgc/144ce85d.4734cfb5.144ce85e.55a381ab/?pc=http%3a%2f%2fitem.rakuten.co.jp%2frakutenmobile%2fzenfone2laser_8gb_ss_red%2f%3fscid%3daf_link_img&amp;m=http%3a%2f%2fm.rakuten.co.jp%2frakutenmobile%2fi%2f10000133%2f" target="_blank">ZenFone 2 laser 8GB</a></span>

@@ -8,7 +8,7 @@ categories:
   - PC周辺機器
 ---
 <div class="img-bg2 img_L">
-  <a rel="nofollow" href="http://www.amazon.co.jp/gp/product/B00HI6PZ36/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B00HI6PZ36&linkCode=as2&tag=tokkajohotsu-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HI6PZ36&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokkajohotsu-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=tokkajohotsu-22&l=as2&o=9&a=B00HI6PZ36" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a rel="nofollow" href="//www.amazon.co.jp/gp/product/B00HI6PZ36/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B00HI6PZ36&linkCode=as2&tag=tokkajohotsu-22"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HI6PZ36&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokkajohotsu-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=tokkajohotsu-22&l=as2&o=9&a=B00HI6PZ36" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
 ### BUFFALO BDXL対応 USB2.0用ポータブルBlu-rayドライブ 書き込みソフト付属 Wケーブル収納 スリムタイプ ブラック BRXL-PC6VU2/N
@@ -22,4 +22,4 @@ categories:
 * 総合ライティングソフト「CyberLink Power2Go 7」、InstantBurn 5
 * ブルーレイ/DVDソフトの映像再生には再生ソフトが必要
 
-Amazonにて激安特価情報を見る： <a href="http://www.amazon.co.jp/gp/product/B00HI6PZ36/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B00HI6PZ36&linkCode=as2&tag=tokkajohotsu-22" target="_blank"><span class="fs150p">BUFFALO BRXL-PC6VU2/N</span></a>
+Amazonにて激安特価情報を見る： <a href="//www.amazon.co.jp/gp/product/B00HI6PZ36/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B00HI6PZ36&linkCode=as2&tag=tokkajohotsu-22" target="_blank"><span class="fs150p">BUFFALO BRXL-PC6VU2/N</span></a>

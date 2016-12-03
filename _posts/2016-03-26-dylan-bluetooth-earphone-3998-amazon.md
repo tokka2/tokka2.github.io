@@ -9,7 +9,7 @@ categories:
 ---
 
 <div class="img-bg2 img_L">
-<a href="http://www.amazon.co.jp/gp/product/B018S8UQ7W/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B018S8UQ7W&linkCode=as2&tag=tokkajohotsu-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B018S8UQ7W&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokkajohotsu-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=tokkajohotsu-22&l=as2&o=9&a=B018S8UQ7W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="//www.amazon.co.jp/gp/product/B018S8UQ7W/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B018S8UQ7W&linkCode=as2&tag=tokkajohotsu-22"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B018S8UQ7W&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokkajohotsu-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=tokkajohotsu-22&l=as2&o=9&a=B018S8UQ7W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
 ### Dylan(ディラン) Bluetooth イヤホン 高音質 ネックバンド式 折り畳み収納可能 長時間再生 ハンズフリー通話 ノイズキャンセリング機能 ワイヤレス イヤホン （ブラック）
@@ -23,4 +23,4 @@ categories:
 
 <br clear="all" />タイムセール激安特価 <span class="tokka-price"><strong>3,998</strong></span> 円（税込）**送料無料**
 
-Amazonにて激安特価情報を見る： <span class="fs150p"><a href="http://www.amazon.co.jp/gp/product/B018S8UQ7W/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B018S8UQ7W&linkCode=as2&tag=tokkajohotsu-22" target="_blank">Dylan Bluetooth イヤホン</a></span>
+Amazonにて激安特価情報を見る： <span class="fs150p"><a href="//www.amazon.co.jp/gp/product/B018S8UQ7W/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B018S8UQ7W&linkCode=as2&tag=tokkajohotsu-22" target="_blank">Dylan Bluetooth イヤホン</a></span>

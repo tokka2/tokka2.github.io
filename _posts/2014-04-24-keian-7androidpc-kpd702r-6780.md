@@ -6,34 +6,34 @@ permalink: /android/keian-7androidpc-kpd702r-6780.html
 pvc_views:
   - 4707
 a8affiliate_code:
-  - 
+  -
 a8image_link:
-  - 
+  -
 a8product:
-  - 
+  -
 a8shop:
-  - 
+  -
 a8price:
-  - 
+  -
 rakuten_affiliate_code:
-  - 
+  -
 rakuten_shop:
   - 楽天店
 rakuten_product:
-  - 
+  -
 rakuten_price:
-  - 
+  -
 rakuten_affiliate_link:
-  - 
+  -
 categories:
   - Android
   - タブレット
 ---
-### KEIAN  
+### KEIAN
 7インチAndroidタブレットPC KPD702R
 
 <div class="img-bg2 img_L">
-  <a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_KV14664068" target="_blank"><br /> <img border="0" alt="KEIAN 7インチAndroidタブレットPC KPD702R" src="http://i0.wp.com/image.nttxstore.jp/l2_images/K/KV/KV14664068.jpg?w=120" data-recalc-dims="1" /></a>
+  <a href="//px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=//nttxstore.jp/_II_KV14664068" target="_blank"><br /> <img border="0" alt="KEIAN 7インチAndroidタブレットPC KPD702R" src="//i0.wp.com/image.nttxstore.jp/l2_images/K/KV/KV14664068.jpg?w=120" data-recalc-dims="1" /></a>
 </div>
 
 <!--more-->
@@ -46,7 +46,7 @@ categories:
   * MicroSD対応
   * 便利な軽量・スリム設計
 
-<br clear="all" />特価 6,980円(税込)+今だけ:200円割引 = <span class="tokka-price"><strong>6,780</strong></span> 円（税込）**送料無料**  
-＜価格比較サイト最安値 次店：8,210円＞  
-  
-NTT-Xにて特価情報を見る： <span class="fs150p"><a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_KV14664068" target="_blank">KEIAN KPD702R</a></span>
+<br clear="all" />特価 6,980円(税込)+今だけ:200円割引 = <span class="tokka-price"><strong>6,780</strong></span> 円（税込）**送料無料**
+＜価格比較サイト最安値 次店：8,210円＞
+
+NTT-Xにて特価情報を見る： <span class="fs150p"><a href="//px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=//nttxstore.jp/_II_KV14664068" target="_blank">KEIAN KPD702R</a></span>

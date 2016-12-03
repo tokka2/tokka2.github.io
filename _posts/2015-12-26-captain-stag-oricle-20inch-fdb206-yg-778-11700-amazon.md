@@ -8,7 +8,7 @@ categories:
   - 自転車
 ---
 <div class="img-bg2 img_L">
-  <a rel="nofollow" href="http://www.amazon.co.jp/gp/product/B018U8S3X4/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B018U8S3X4&linkCode=as2&tag=tokkajohotsu-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B018U8S3X4&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokkajohotsu-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=tokkajohotsu-22&l=as2&o=9&a=B018U8S3X4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a rel="nofollow" href="//www.amazon.co.jp/gp/product/B018U8S3X4/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B018U8S3X4&linkCode=as2&tag=tokkajohotsu-22"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B018U8S3X4&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokkajohotsu-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=tokkajohotsu-22&l=as2&o=9&a=B018U8S3X4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
 ### キャプテンスタッグ(CAPTAIN STAG) Oricle 20インチ 折りたたみ自転車 FDB206 [ シマノ6段変速 / バッテリーライト / ワイヤー錠 / 前後泥よけ ] 標準装備 ホワイト YG-778
@@ -21,4 +21,4 @@ categories:
 * 近場の買い物から、折り畳んで旅行や遠出にも!
 * どんなシーンにも活躍!
 
-Amazonにて激安特価情報を見る： <a href="http://www.amazon.co.jp/gp/product/B018U8S3X4/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B018U8S3X4&linkCode=as2&tag=tokkajohotsu-22" target="_blank"><span class="fs150p">キャプテンスタッグ YG-778</span></a>
+Amazonにて激安特価情報を見る： <a href="//www.amazon.co.jp/gp/product/B018U8S3X4/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B018U8S3X4&linkCode=as2&tag=tokkajohotsu-22" target="_blank"><span class="fs150p">キャプテンスタッグ YG-778</span></a>

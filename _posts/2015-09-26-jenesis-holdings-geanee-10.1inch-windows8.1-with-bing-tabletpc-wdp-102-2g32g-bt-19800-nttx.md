@@ -8,7 +8,7 @@ categories:
   - タブレット PC
 ---
 <div class="img-bg2 img_L">
-  <a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_SM15023075" target="_blank"><br /> <img border="0" alt="JENESIS HOLDINGS geanee 10.1インチ Windows8.1 with Bing タブレットPC WDP-102-2G32G-BT" src="http://image.nttxstore.jp/l2_images/S/SM/SM15023075.jpg" data-recalc-dims="1" /></a>
+  <a href="//px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=//nttxstore.jp/_II_SM15023075" target="_blank"><br /> <img border="0" alt="JENESIS HOLDINGS geanee 10.1インチ Windows8.1 with Bing タブレットPC WDP-102-2G32G-BT" src="//image.nttxstore.jp/l2_images/S/SM/SM15023075.jpg" data-recalc-dims="1" /></a>
 </div>
 
 <!--more-->
@@ -28,4 +28,4 @@ categories:
 <br clear="all" />24,800円(税込)+今だけ:5,000円割引 = 激安特価 <span class="tokka-price"><strong>19,800</strong></span> 円（税込）**送料無料**
 ＜価格比較サイト最安値 他店：24,800円＞
 
-NTT-Xにて激安特価情報を見る： <span class="fs150p"><a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_SM15023075" target="_blank">JENESIS HOLDINGS WDP-102-2G32G-BT</a></span>
+NTT-Xにて激安特価情報を見る： <span class="fs150p"><a href="//px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=//nttxstore.jp/_II_SM15023075" target="_blank">JENESIS HOLDINGS WDP-102-2G32G-BT</a></span>

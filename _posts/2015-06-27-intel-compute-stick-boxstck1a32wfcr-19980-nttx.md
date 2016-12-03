@@ -8,7 +8,7 @@ categories:
   - PC
 ---
 <div class="img-bg2 img_L">
-  <a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_IN14983614" target="_blank"><img border="0" alt="intel Intel Compute Stick Windows 8.1 32bitモデル BOXSTCK1A32WFCR" src="http://image.nttxstore.jp/l2_images/I/IN/IN14983614.jpg" data-recalc-dims="1" /></a>
+  <a href="//px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=//nttxstore.jp/_II_IN14983614" target="_blank"><img border="0" alt="intel Intel Compute Stick Windows 8.1 32bitモデル BOXSTCK1A32WFCR" src="//image.nttxstore.jp/l2_images/I/IN/IN14983614.jpg" data-recalc-dims="1" /></a>
 </div>
 
 ### intel Intel Compute Stick Windows 8.1 32bitモデル BOXSTCK1A32WFCR
@@ -24,4 +24,4 @@ categories:
 <br clear="all" />激安特価 20,497円(税込)+今だけ:517円割引 = <span class="tokka-price"><strong>19,980</strong></span> 円（税込）**送料無料**
 ＜価格比較サイト最安値 他店：20,449円＞
 
-NTT-Xにて激安特価情報を見る： <a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_IN14983614" target="_blank"><span class="fs150p">lenovo YOGA Tablet 259428222</span></a>
+NTT-Xにて激安特価情報を見る： <a href="//px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=//nttxstore.jp/_II_IN14983614" target="_blank"><span class="fs150p">lenovo YOGA Tablet 259428222</span></a>

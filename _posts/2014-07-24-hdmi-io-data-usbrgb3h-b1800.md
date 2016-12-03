@@ -6,15 +6,15 @@ permalink: /pcparts/hdmi-io-data-usbrgb3h-b1800.html
 syndication_source:
   - 特価情報ツウ！
 syndication_source_uri:
-  - http://tokka.ipon.biz/
+  - //tokka.ipon.biz/
 syndication_source_id:
-  - http://feeds.feedburner.com/ipon/tokka
+  - //feeds.feedburner.com/ipon/tokka
 "rss:comments":
-  - 'http://tokka.ipon.biz/modules/wordpress/index.php/archives/2011/12/28/hp-compaq-20-s2021a-9870/#comments'
+  - '//tokka.ipon.biz/modules/wordpress/index.php/archives/2011/12/28/hp-compaq-20-s2021a-9870/#comments'
 syndication_feed:
-  - http://feeds.feedburner.com/ipon/tokka
+  - //feeds.feedburner.com/ipon/tokka
 syndication_permalink:
-  - http://feedproxy.google.com/~r/ipon/tokka/~3/0J7bhgZUPcQ/
+  - //feedproxy.google.com/~r/ipon/tokka/~3/0J7bhgZUPcQ/
 syndication_item_hash:
   - b567bf84c6d597c7462f8bb6ef1a2d7d
   - 76fe824c15072d989c54a07c1c5987b7
@@ -63,32 +63,32 @@ syndication_item_hash:
 pvc_views:
   - 2899
 a8affiliate_code:
-  - 
+  -
 a8image_link:
-  - 
+  -
 a8product:
-  - 
+  -
 a8shop:
-  - 
+  -
 a8price:
-  - 
+  -
 rakuten_affiliate_code:
-  - 
+  -
 rakuten_shop:
   - 楽天店
 rakuten_product:
-  - 
+  -
 rakuten_price:
-  - 
+  -
 rakuten_affiliate_link:
-  - 
+  -
 categories:
   - PC周辺機器
 ---
-### IO DATA USB-RGB3/H B級ユーズド・アイテム【中古】 
+### IO DATA USB-RGB3/H B級ユーズド・アイテム【中古】
 
 <div class="img-bg2 img_L">
-  <a href="http://hb.afl.rakuten.co.jp/hgc/0a708d69.b8a87d02.0a708d6a.55a4c12c/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fioplaza%2f3300-00904935-00000001%2f%3fscid%3daf_link_img&m=http%3a%2f%2fm.rakuten.co.jp%2fioplaza%2fi%2f10259391%2f" target="_blank"><img src="http://hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fioplaza%2fcabinet%2fused03%2fusbrgb3h.jpg%3f_ex%3d128x128&m=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fioplaza%2fcabinet%2fused03%2fusbrgb3h.jpg" border="0" title="" alt="" /></a>
+  <a href="//hb.afl.rakuten.co.jp/hgc/0a708d69.b8a87d02.0a708d6a.55a4c12c/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fioplaza%2f3300-00904935-00000001%2f%3fscid%3daf_link_img&m=http%3a%2f%2fm.rakuten.co.jp%2fioplaza%2fi%2f10259391%2f" target="_blank"><img src="//hbb.afl.rakuten.co.jp/hgb/?pc=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fioplaza%2fcabinet%2fused03%2fusbrgb3h.jpg%3f_ex%3d128x128&m=http%3a%2f%2fthumbnail.image.rakuten.co.jp%2f%400_mall%2fioplaza%2fcabinet%2fused03%2fusbrgb3h.jpg" border="0" title="" alt="" /></a>
 </div>
 
 <!--more-->
@@ -101,7 +101,7 @@ categories:
 
 <br clear="all" />販売期間 2014年07月24日19時00分～2014年07月27日23時59分
 
-特価　<span class="tokka-price"><strong>1,800</strong></span> 円（税込）**5000円以上で送料無料！**  
+特価　<span class="tokka-price"><strong>1,800</strong></span> 円（税込）**5000円以上で送料無料！**
 ＜価格比較サイト最安値：6,980円＞
 
-アイオープラザ　楽天市場店にて特価情報を見る： <span class="fs150p"><a href="http://hb.afl.rakuten.co.jp/hgc/0a708d69.b8a87d02.0a708d6a.55a4c12c/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fioplaza%2f3300-00904935-00000001%2f%3fscid%3daf_link_img&m=http%3a%2f%2fm.rakuten.co.jp%2fioplaza%2fi%2f10259391%2f" target="_blank">IO DATA USB-RGB3/H</a></span>
+アイオープラザ　楽天市場店にて特価情報を見る： <span class="fs150p"><a href="//hb.afl.rakuten.co.jp/hgc/0a708d69.b8a87d02.0a708d6a.55a4c12c/?pc=http%3a%2f%2fitem.rakuten.co.jp%2fioplaza%2f3300-00904935-00000001%2f%3fscid%3daf_link_img&m=http%3a%2f%2fm.rakuten.co.jp%2fioplaza%2fi%2f10259391%2f" target="_blank">IO DATA USB-RGB3/H</a></span>

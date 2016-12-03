@@ -8,7 +8,7 @@ categories:
   - イヤホン
 ---
 <div class="img-bg2 img_L">
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00HWHTGOK/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41OHX5o5CrL._SL160_.jpg" alt="Amazonプレミアムイヤホン （リモコン・マイク付 ブラック）" style="border: none;" /></a>
+<a href="//www.amazon.co.jp/exec/obidos/ASIN/B00HWHTGOK/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="//ecx.images-amazon.com/images/I/41OHX5o5CrL._SL160_.jpg" alt="Amazonプレミアムイヤホン （リモコン・マイク付 ブラック）" style="border: none;" /></a>
 </div>
 
 ### Amazon プレミアムイヤホン （リモコン・マイク付 ブラック）
@@ -18,4 +18,4 @@ categories:
 * 人間工学に基づいたデザイン
 * クリアで澄んだサウンド
 
-Amazonにて激安特価情報を見る： <span class="fs150p"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00HWHTGOK/tokkajohotsu-22/ref=nosim/" target="_blank">Amazon プレミアムイヤホン</a></span>
+Amazonにて激安特価情報を見る： <span class="fs150p"><a href="//www.amazon.co.jp/exec/obidos/ASIN/B00HWHTGOK/tokkajohotsu-22/ref=nosim/" target="_blank">Amazon プレミアムイヤホン</a></span>

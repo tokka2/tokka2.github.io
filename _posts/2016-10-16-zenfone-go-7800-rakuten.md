@@ -9,7 +9,7 @@ categories:
 ---
 
 <div class="img-bg2 img_L">
-<a href="http://hb.afl.rakuten.co.jp/hsc/15467e7f.3e2bc886.15467e80.20608248/?scid=af_shop_txt&link_type=text&ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJ0ZXh0IiwiY29sIjowLCJ0YXIiOjEsImNhdCI6IjIiLCJiYW4iOiIxMjYxMjM4In0%3D" target="_blank" style="word-wrap:break-word;"  ><img src="http://mobile.rakuten.co.jp/img/pc/product/zenfonego/img_topic_02.jpg" border="0" style="margin:2px" alt="" title=""></a>
+<a href="//hb.afl.rakuten.co.jp/hsc/15467e7f.3e2bc886.15467e80.20608248/?scid=af_shop_txt&link_type=text&ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJ0ZXh0IiwiY29sIjowLCJ0YXIiOjEsImNhdCI6IjIiLCJiYW4iOiIxMjYxMjM4In0%3D" target="_blank" style="word-wrap:break-word;"  ><img src="//mobile.rakuten.co.jp/img/pc/product/zenfonego/img_topic_02.jpg" border="0" style="margin:2px" alt="" title=""></a>
 <p>↑トップページの楽天モバイルオータムセールバナーより</p>
 </div>
 
@@ -25,4 +25,4 @@ categories:
 
 <br clear="all" />激安特価 <span class="tokka-price"><strong>7,800</strong></span> 円（税込）
 
-楽天にて激安特価情報を見る： <span class="fs150p"><a href="http://hb.afl.rakuten.co.jp/hsc/15467e7f.3e2bc886.15467e80.20608248/?scid=af_shop_txt&link_type=text&ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJ0ZXh0IiwiY29sIjowLCJ0YXIiOjEsImNhdCI6IjIiLCJiYW4iOiIxMjYxMjM4In0%3D" target="_blank" style="word-wrap:break-word;"  >楽天でんわ/楽天モバイル</a></span>
+楽天にて激安特価情報を見る： <span class="fs150p"><a href="//hb.afl.rakuten.co.jp/hsc/15467e7f.3e2bc886.15467e80.20608248/?scid=af_shop_txt&link_type=text&ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJ0ZXh0IiwiY29sIjowLCJ0YXIiOjEsImNhdCI6IjIiLCJiYW4iOiIxMjYxMjM4In0%3D" target="_blank" style="word-wrap:break-word;"  >楽天でんわ/楽天モバイル</a></span>

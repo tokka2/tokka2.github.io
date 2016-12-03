@@ -9,7 +9,7 @@ categories:
 ---
 
 <div class="img-bg2 img_L">
-  <a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_ME12892143" target="_blank"><img border="0" alt="バッファロー Giga対応 5ポート スイッチングHub LANケーブル付 LSW3-GT-5EP/CW" src="http://img.bestgate.net/?url=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F31Mq6KNSofL._SL160_.jpg" data-recalc-dims="1" /></a>
+  <a href="//px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=//nttxstore.jp/_II_ME12892143" target="_blank"><img border="0" alt="バッファロー Giga対応 5ポート スイッチングHub LANケーブル付 LSW3-GT-5EP/CW" src="//img.bestgate.net/?url=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F31Mq6KNSofL._SL160_.jpg" data-recalc-dims="1" /></a>
 </div>
 
 ### バッファロー Giga対応 5ポート スイッチングHub LANケーブル付 LSW3-GT-5EP/CW
@@ -23,4 +23,4 @@ categories:
 <br clear="all" />激安特価 <span class="tokka-price"><strong>1,480</strong></span> 円（税込）**送料無料**
 ＜価格比較サイト最安値 他店：2,400円＞
 
-NTT-Xにて激安特価情報を見る： <span class="fs150p"><a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_ME12892143" target="_blank">バッファロー LSW3-GT-5EP/CW</a></span>
+NTT-Xにて激安特価情報を見る： <span class="fs150p"><a href="//px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=//nttxstore.jp/_II_ME12892143" target="_blank">バッファロー LSW3-GT-5EP/CW</a></span>

@@ -6,9 +6,9 @@ permalink: /tablet/cpuwindows81office2013-acer-iconia-w4820fp-34800.html
 pvc_views:
   - 11609
 a8affiliate_code:
-  - 'http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&a8ejpredirect=http://nttxstore.jp/_II_QZX0007753'
+  - '//px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&a8ejpredirect=//nttxstore.jp/_II_QZX0007753'
 a8image_link:
-  - http://image.nttxstore.jp/l2_images/E/EI/EI14533630.jpg
+  - //image.nttxstore.jp/l2_images/E/EI/EI14533630.jpg
 a8product:
   - Acer ICONIA W4-820/FP
 a8shop:
@@ -16,22 +16,22 @@ a8shop:
 a8price:
   - 34,800
 rakuten_affiliate_code:
-  - 
+  -
 rakuten_shop:
   - 楽天店
 rakuten_product:
-  - 
+  -
 rakuten_price:
-  - 
+  -
 rakuten_affiliate_link:
-  - 
+  -
 categories:
   - タブレット
 ---
 ### Acer ICONIA W4-820/FP
 
 <div class="img-bg2 img_L">
-  <a title="Acer ICONIA W4-820/FP" href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&a8ejpredirect=http://nttxstore.jp/_II_QZX0007753" target="_blank"><img src="http://i0.wp.com/image.nttxstore.jp/l2_images/E/EI/EI14533630.jpg?resize=120%2C120" border="0" alt="Acer ICONIA W4-820/FP" style="border: 0pt none;" data-recalc-dims="1" /></a>
+  <a title="Acer ICONIA W4-820/FP" href="//px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&a8ejpredirect=//nttxstore.jp/_II_QZX0007753" target="_blank"><img src="//i0.wp.com/image.nttxstore.jp/l2_images/E/EI/EI14533630.jpg?resize=120%2C120" border="0" alt="Acer ICONIA W4-820/FP" style="border: 0pt none;" data-recalc-dims="1" /></a>
 </div>
 
 <!--more-->
@@ -44,6 +44,6 @@ categories:
   * Micro HDMIとMicro USBとmicroSDスロット搭載！
   * Micro USB対応により、手軽に充電が可能！
 
-フレッツ光会員&#038;まとめて支払い限定特価　<span style="color: #ff6600; font-size: 150%;"><strong>34,800</strong></span> 円（税込）**送料無料**  
-＜価格比較サイト最安値：39,900円＞  
-NTT-Xにて特価情報を見る： <span style="font-size: 150%;"><a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&a8ejpredirect=http://nttxstore.jp/_II_QZX0007753" target="_blank">Acer ICONIA W4-820/FP</a></span>
+フレッツ光会員&#038;まとめて支払い限定特価　<span style="color: #ff6600; font-size: 150%;"><strong>34,800</strong></span> 円（税込）**送料無料**
+＜価格比較サイト最安値：39,900円＞
+NTT-Xにて特価情報を見る： <span style="font-size: 150%;"><a href="//px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&a8ejpredirect=//nttxstore.jp/_II_QZX0007753" target="_blank">Acer ICONIA W4-820/FP</a></span>

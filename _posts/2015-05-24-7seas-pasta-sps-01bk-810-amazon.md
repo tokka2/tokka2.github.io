@@ -8,7 +8,7 @@ categories:
   - プリンター
 ---
 <div class="img-bg2 img_L">
-  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00R43FE20/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/21JXHO%2BnsnL._SL160_.jpg" alt="7seas-pasta自撮り 自分撮りスティック ブラック リモコン内蔵 イヤホンジャック接続 SPS-01BK" style="border: none;" /></a>
+  <a href="//www.amazon.co.jp/exec/obidos/ASIN/B00R43FE20/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="//ecx.images-amazon.com/images/I/21JXHO%2BnsnL._SL160_.jpg" alt="7seas-pasta自撮り 自分撮りスティック ブラック リモコン内蔵 イヤホンジャック接続 SPS-01BK" style="border: none;" /></a>
 </div>
 
 ### 7seas-pasta自撮り 自分撮りスティック ブラック リモコン内蔵 イヤホンジャック接続 SPS-01BK
@@ -23,4 +23,4 @@ categories:
 * シャッター対応機種 Samsung GalaxシリーズNoteシリーズ
 * iPad mini までのサイズまで対応可能
 
-Amazonにて激安特価情報を見る： <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00R43FE20/tokkajohotsu-22/ref=nosim/" target="_blank"><span class="fs150p">7seas-pasta SPS-01BK</span></a>
+Amazonにて激安特価情報を見る： <a href="//www.amazon.co.jp/exec/obidos/ASIN/B00R43FE20/tokkajohotsu-22/ref=nosim/" target="_blank"><span class="fs150p">7seas-pasta SPS-01BK</span></a>

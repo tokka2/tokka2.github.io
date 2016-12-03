@@ -11,7 +11,7 @@ categories:
 ---
 
 <div class="img-bg2 img_L">
-<a  href="https://www.amazon.co.jp/gp/product/B019RP3YQU/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B019RP3YQU&linkCode=as2&tag=tokkajohotsu-22" target="_blank"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B019RP3YQU&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokkajohotsu-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=tokkajohotsu-22&l=as2&o=9&a=B019RP3YQU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="https://www.amazon.co.jp/gp/product/B019RP3YQU/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B019RP3YQU&linkCode=as2&tag=tokkajohotsu-22" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B019RP3YQU&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokkajohotsu-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=tokkajohotsu-22&l=as2&o=9&a=B019RP3YQU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
 ### Ecandy IP65防水のNFC Bluetoothスピーカー 防塵耐震モバイルバッテリ搭載10W 18650 4000mahリチウムバッテリー (ブラック)

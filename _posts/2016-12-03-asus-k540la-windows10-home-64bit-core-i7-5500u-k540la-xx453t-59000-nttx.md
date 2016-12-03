@@ -9,7 +9,7 @@ categories:
 ---
 
 <div class="img-bg2 img_L">
-<a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_AZ15442761" target="_blank"><img border="0" alt="ASUS K540LA (Windows10 Home 64bit/Core i7 5500U搭載モデル) スチールシルバー K540LA-XX453T" src="http://image.nttxstore.jp/250_images/A/AZ/AZ15442761.jpg" data-recalc-dims="1" /></a>
+<a href="//px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=//nttxstore.jp/_II_AZ15442761" target="_blank"><img border="0" alt="ASUS K540LA (Windows10 Home 64bit/Core i7 5500U搭載モデル) スチールシルバー K540LA-XX453T" src="//image.nttxstore.jp/250_images/A/AZ/AZ15442761.jpg" data-recalc-dims="1" /></a>
 </div>
 
 ### ASUS K540LA (Windows10 Home 64bit/Core i7 5500U搭載モデル) スチールシルバー K540LA-XX453T
@@ -26,4 +26,4 @@ categories:
 <br clear="all" />59,800円 = 割引コード 800円 = 激安特価 <span class="tokka-price"><strong>59,000</strong></span> 円（税込）**送料無料**
 ＜価格比較サイト最安値:69,980円＞
 
-NTT-Xにて激安特価情報を見る： <span class="fs150p"><a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_AZ15442761" target="_blank">ASUS K540LA K540LA-XX453T</a></span>
+NTT-Xにて激安特価情報を見る： <span class="fs150p"><a href="//px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=//nttxstore.jp/_II_AZ15442761" target="_blank">ASUS K540LA K540LA-XX453T</a></span>

@@ -9,7 +9,7 @@ categories:
 ---
 
 <div class="img-bg2 img_L">
-<a  href="http://www.amazon.co.jp/gp/product/B017I4RPJ4/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B017I4RPJ4&linkCode=as2&tag=tokkajohotsu-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B017I4RPJ4&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokkajohotsu-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=tokkajohotsu-22&l=as2&o=9&a=B017I4RPJ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="//www.amazon.co.jp/gp/product/B017I4RPJ4/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B017I4RPJ4&linkCode=as2&tag=tokkajohotsu-22"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B017I4RPJ4&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokkajohotsu-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=tokkajohotsu-22&l=as2&o=9&a=B017I4RPJ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
 ### Seagate HDD 外付けハードディスク 3.0TB USB3.0 PC/TV録画対応 New Expansion SGD-FNX030UBK
@@ -26,4 +26,4 @@ categories:
 <br clear="all" />激安特価 <span class="tokka-price"><strong>9,480</strong></span> 円（税込）**送料無料**
 ＜価格比較サイト最安値 他店： 11,477円＞
 
-Amazonにて激安特価情報を見る： <span class="fs150p"><a href="http://www.amazon.co.jp/gp/product/B017I4RPJ4/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B017I4RPJ4&linkCode=as2&tag=tokkajohotsu-22" target="_blank">Seagate SGD-FNX030UBK</a></span>
+Amazonにて激安特価情報を見る： <span class="fs150p"><a href="//www.amazon.co.jp/gp/product/B017I4RPJ4/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B017I4RPJ4&linkCode=as2&tag=tokkajohotsu-22" target="_blank">Seagate SGD-FNX030UBK</a></span>

@@ -4,25 +4,25 @@ author: 激安・格安・特価情報ツウ
 layout: post
 permalink: /note_pc/windows8101pc-lenovo-ideapad-flex-10-19990.html
 rakuten_affiliate_link:
-  - 
+  -
 rakuten_price:
-  - 
+  -
 rakuten_product:
-  - 
+  -
 rakuten_shop:
   - 楽天店
 rakuten_affiliate_code:
-  - 
+  -
 a8price:
-  - 
+  -
 a8shop:
-  - 
+  -
 a8product:
-  - 
+  -
 a8image_link:
-  - 
+  -
 a8affiliate_code:
-  - 
+  -
 pvc_views:
   - 16712
 categories:
@@ -31,7 +31,7 @@ categories:
 ### 【リファビッシュ】 Lenovo 10.1型タッチパネル対応 IdeaPad Flex 10 [59RF0785]
 
 <div class="img-bg2 img_L">
-  <a href="http://px.a8.net/svt/ejp?a8mat=1I0DKG+A2L0YI+1TD2+5ZEMP&#038;a8ejpredirect=http://www.geno-web.jp/shopdetail/000000035212" title="【リファビッシュ】 Lenovo 10.1型タッチパネル対応 IdeaPad Flex 10 [59RF0785] (Celeron 2.00GHz/ -/ Windows8 32bit)" target="_blank"><br /> <img border="0" alt="Libra iPhone5S/5 アルミバンパー [IP5ABWH] ホワイト" src="http://i0.wp.com/www.geno-web.jp/shopimages/genoweb/0000000352124.jpg?w=130"width="130" data-recalc-dims="1" /></a><br /> <img border="0" src="http://i2.wp.com/www16.a8.net/0.gif?resize=1%2C1" alt="【リファビッシュ】 Lenovo 10.1型タッチパネル対応 IdeaPad Flex 10 [59RF0785] (Celeron 2.00GHz/ -/ Windows8 32bit)" data-recalc-dims="1" />
+  <a href="//px.a8.net/svt/ejp?a8mat=1I0DKG+A2L0YI+1TD2+5ZEMP&#038;a8ejpredirect=//www.geno-web.jp/shopdetail/000000035212" title="【リファビッシュ】 Lenovo 10.1型タッチパネル対応 IdeaPad Flex 10 [59RF0785] (Celeron 2.00GHz/ -/ Windows8 32bit)" target="_blank"><br /> <img border="0" alt="Libra iPhone5S/5 アルミバンパー [IP5ABWH] ホワイト" src="//i0.wp.com/www.geno-web.jp/shopimages/genoweb/0000000352124.jpg?w=130"width="130" data-recalc-dims="1" /></a><br /> <img border="0" src="//i2.wp.com/www16.a8.net/0.gif?resize=1%2C1" alt="【リファビッシュ】 Lenovo 10.1型タッチパネル対応 IdeaPad Flex 10 [59RF0785] (Celeron 2.00GHz/ -/ Windows8 32bit)" data-recalc-dims="1" />
 </div>
 
 <!--more-->
@@ -47,5 +47,5 @@ categories:
 
 激安特価　<span class="tokka-price"><strong>19,990</strong></span> 円（税込）＜特価比較サイト最安値＞
 
-　  
-GENOにて特価情報を見る： <span class="fs150p"><a href="http://px.a8.net/svt/ejp?a8mat=1I0DKG+A2L0YI+1TD2+5ZEMP&#038;a8ejpredirect=http://www.geno-web.jp/shopdetail/000000035212" target="_blank">Lenovo 59RF0785</a></span>
+　
+GENOにて特価情報を見る： <span class="fs150p"><a href="//px.a8.net/svt/ejp?a8mat=1I0DKG+A2L0YI+1TD2+5ZEMP&#038;a8ejpredirect=//www.geno-web.jp/shopdetail/000000035212" target="_blank">Lenovo 59RF0785</a></span>

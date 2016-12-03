@@ -8,7 +8,7 @@ categories:
   - スマートフォン
 ---
 <div class="img-bg2 img_L">
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00MHDPJ4A/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41X6as-BieL._SL160_.jpg" alt="covia SIMフリー スマートフォン FLEAZ F5 ( Android4.4 / 5inch / 標準SIM / microSIM / デュアルSIMスロット / 8GB ) CP-F50AK" style="border: none;" /></a>
+<a href="//www.amazon.co.jp/exec/obidos/ASIN/B00MHDPJ4A/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="//ecx.images-amazon.com/images/I/41X6as-BieL._SL160_.jpg" alt="covia SIMフリー スマートフォン FLEAZ F5 ( Android4.4 / 5inch / 標準SIM / microSIM / デュアルSIMスロット / 8GB ) CP-F50AK" style="border: none;" /></a>
 </div>
 
 ### SIMフリー スマートフォン FLEAZ F5 covia CP-F50AK
@@ -30,4 +30,4 @@ categories:
 * GPS :A-GPSサポート
 * データ通信 :W-CDMA 2100/800MHz、GSM 850/900/1800/1900MHz
 
-Amazonにて激安特価情報を見る： <span class="fs150p"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00MHDPJ4A/tokkajohotsu-22/ref=nosim/" target="_blank">covia CP-F50AK</a></span>
+Amazonにて激安特価情報を見る： <span class="fs150p"><a href="//www.amazon.co.jp/exec/obidos/ASIN/B00MHDPJ4A/tokkajohotsu-22/ref=nosim/" target="_blank">covia CP-F50AK</a></span>

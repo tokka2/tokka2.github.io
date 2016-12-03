@@ -8,7 +8,7 @@ categories:
   - 自転車
 ---
 <div class="img-bg2 img_L">
-  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00VDVY0VK/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/6150IorelCL._SL160_.jpg" alt="DREADNOUGHT（ドレッドノート）DN7001（ソルベブラック） 26インチ折りたたみ高性能マウンテンバイク自転車　前後サスペンション＆シマノ18段変速　マッドガード標準装備 コイルロック+LEDライト付き" style="border: none;" /></a>
+  <a href="//www.amazon.co.jp/exec/obidos/ASIN/B00VDVY0VK/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="//ecx.images-amazon.com/images/I/6150IorelCL._SL160_.jpg" alt="DREADNOUGHT（ドレッドノート）DN7001（ソルベブラック） 26インチ折りたたみ高性能マウンテンバイク自転車　前後サスペンション＆シマノ18段変速　マッドガード標準装備 コイルロック+LEDライト付き" style="border: none;" /></a>
 </div>
 
 ### DREADNOUGHT（ドレッドノート）DN7001（ソルベブラック） 26インチ折りたたみ高性能マウンテンバイク自転車　前後サスペンション＆シマノ18段変速　マッドガード標準装備 コイルロック+LEDライト付き
@@ -23,4 +23,4 @@ categories:
 * 9連ライトとワイヤーロックが付いてきます
 * コイルロック+LEDライト付き
 
-Amazonにて激安特価情報を見る： <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00VDVY0VK/tokkajohotsu-22/ref=nosim/" target="_blank"><span class="fs150p">DREADNOUGHT DN7001</span></a>
+Amazonにて激安特価情報を見る： <a href="//www.amazon.co.jp/exec/obidos/ASIN/B00VDVY0VK/tokkajohotsu-22/ref=nosim/" target="_blank"><span class="fs150p">DREADNOUGHT DN7001</span></a>

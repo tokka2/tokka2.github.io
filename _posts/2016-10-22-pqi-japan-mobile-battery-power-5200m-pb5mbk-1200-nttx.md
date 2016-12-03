@@ -9,7 +9,7 @@ categories:
 ---
 
 <div class="img-bg2 img_L">
-<a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_PW14883493" target="_blank"><img border="0" alt="PQI JAPAN モバイルバッテリー Power 5200M (ブラック) PB5MBK" src="http://image.nttxstore.jp/250_images/P/PW/PW14883493.jpg" data-recalc-dims="1" /></a>
+<a href="//px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=//nttxstore.jp/_II_PW14883493" target="_blank"><img border="0" alt="PQI JAPAN モバイルバッテリー Power 5200M (ブラック) PB5MBK" src="//image.nttxstore.jp/250_images/P/PW/PW14883493.jpg" data-recalc-dims="1" /></a>
 </div>
 
 ### PQI JAPAN モバイルバッテリー Power 5200M (ブラック) PB5MBK
@@ -26,4 +26,4 @@ categories:
 <br clear="all" />激安特価 <span class="tokka-price"><strong>1,200</strong></span> 円（税込）**送料無料**
 ＜価格比較サイト最安値:2,960円＞
 
-NTT-Xにて激安特価情報を見る： <span class="fs150p"><a href="http://px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=http://nttxstore.jp/_II_PW14883493" target="_blank">PQI PB5MBK</a></span>
+NTT-Xにて激安特価情報を見る： <span class="fs150p"><a href="//px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=//nttxstore.jp/_II_PW14883493" target="_blank">PQI PB5MBK</a></span>

@@ -9,7 +9,7 @@ categories:
 ---
 
 <div class="img-bg2 img_L">
-<a  href="http://www.amazon.co.jp/gp/product/B00KC6FDNQ/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B00KC6FDNQ&linkCode=as2&tag=tokkajohotsu-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KC6FDNQ&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokkajohotsu-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=tokkajohotsu-22&l=as2&o=9&a=B00KC6FDNQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="//www.amazon.co.jp/gp/product/B00KC6FDNQ/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B00KC6FDNQ&linkCode=as2&tag=tokkajohotsu-22"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KC6FDNQ&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokkajohotsu-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=tokkajohotsu-22&l=as2&o=9&a=B00KC6FDNQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
 ### Fire HD 6タブレット 8GB、ホワイト
@@ -26,4 +26,4 @@ categories:
 
 <br clear="all" />激安特価 <span class="tokka-price"><strong>8,850</strong></span> 円（税込）**送料無料**
 
-Amazonにて激安特価情報を見る： <span class="fs150p"><a href="http://www.amazon.co.jp/gp/product/B00KC6FDNQ/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B00KC6FDNQ&linkCode=as2&tag=tokkajohotsu-22" target="_blank">Fire HD 6タブレット 8GB</a></span>
+Amazonにて激安特価情報を見る： <span class="fs150p"><a href="//www.amazon.co.jp/gp/product/B00KC6FDNQ/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B00KC6FDNQ&linkCode=as2&tag=tokkajohotsu-22" target="_blank">Fire HD 6タブレット 8GB</a></span>

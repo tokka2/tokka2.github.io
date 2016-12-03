@@ -8,7 +8,7 @@ categories:
   - 充電器
 ---
 <div class="img-bg2 img_L">
-  <a rel="nofollow" href="http://www.amazon.co.jp/gp/product/B00S662AYO/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B00S662AYO&linkCode=as2&tag=tokkajohotsu-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00S662AYO&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokkajohotsu-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=tokkajohotsu-22&l=as2&o=9&a=B00S662AYO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a rel="nofollow" href="//www.amazon.co.jp/gp/product/B00S662AYO/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B00S662AYO&linkCode=as2&tag=tokkajohotsu-22"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00S662AYO&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokkajohotsu-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=tokkajohotsu-22&l=as2&o=9&a=B00S662AYO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
 ### Aukey AIPower スマホ充電器 3600mAh 薄型（ブラック）PB-N26
@@ -23,4 +23,4 @@ categories:
 * リチウムポリマーバッテリーを採用しており、安定した給電が提供でき、寿命も長い
 * 過充電、過放電、加熱時、短絡時に自動停止する機能も搭載
 
-Amazonにて激安特価情報を見る： <a href="http://www.amazon.co.jp/gp/product/B00S662AYO/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B00S662AYO&linkCode=as2&tag=tokkajohotsu-22" target="_blank"><span class="fs150p">SAMSUNG MB-MP64D/FFP</span></a>
+Amazonにて激安特価情報を見る： <a href="//www.amazon.co.jp/gp/product/B00S662AYO/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B00S662AYO&linkCode=as2&tag=tokkajohotsu-22" target="_blank"><span class="fs150p">SAMSUNG MB-MP64D/FFP</span></a>

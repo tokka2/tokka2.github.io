@@ -8,7 +8,7 @@ categories:
   - LEDシーリングライト
 ---
 <div class="img-bg2 img_L">
-  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00920JMWQ/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31k1su21BeL._SL160_.jpg" alt="アイリスオーヤマ LEDシーリングライト ~12畳 調光タイプ ダークブラウン CL12N-W1-M" style="border: none;" /></a>
+  <a href="//www.amazon.co.jp/exec/obidos/ASIN/B00920JMWQ/tokkajohotsu-22/ref=nosim/" name="amanatulink" target="_blank"><img src="//ecx.images-amazon.com/images/I/31k1su21BeL._SL160_.jpg" alt="アイリスオーヤマ LEDシーリングライト ~12畳 調光タイプ ダークブラウン CL12N-W1-M" style="border: none;" /></a>
 </div>
 
 ### アイリスオーヤマ LEDシーリングライト ~12畳 調光タイプ ダークブラウン CL12N-W1-M
@@ -25,4 +25,4 @@ categories:
 * 2チャンネル設定可能
 * 工事不要で取り付け簡単
 
-Amazonにて激安特価情報を見る： <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00920JMWQ/tokkajohotsu-22/ref=nosim/" target="_blank"><span class="fs150p">アイリスオーヤマ CL12N-W1-M</span></a>
+Amazonにて激安特価情報を見る： <a href="//www.amazon.co.jp/exec/obidos/ASIN/B00920JMWQ/tokkajohotsu-22/ref=nosim/" target="_blank"><span class="fs150p">アイリスオーヤマ CL12N-W1-M</span></a>
