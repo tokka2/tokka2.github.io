@@ -2,7 +2,7 @@
 title: IP65防水でモバイルバッテリーにもなるBluetoothスピーカーがタイムセール36%OFF特価2,159円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-12-03 3:30:10
+date: 2016-12-03 5:46:10
 permalink: /speaker/ecandy-ip65-nfc-bluetooth-10w-18650-4000mah-2159-amazon.html
 categories:
   - モバイルバッテリー

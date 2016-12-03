@@ -2,7 +2,7 @@
 title: ASUS K540LA (Windows10 Home 64bit/Core i7 5500U搭載モデル) スチールシルバー K540LA-XX453Tが超特価！59,000円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2016-12-03 00:19:10
+date: 2016-12-03 04:45:10
 permalink: /note/asus-k540la-windows10-home-64bit-core-i7-5500u-k540la-xx453t-59000-nttx.html
 categories:
 - ノートPC
