@@ -12,7 +12,6 @@ TOKKA.TOP.FIXED = {
 		this.windowHeight = this.$window.height()
 		this.$contents = $('.jsc-fixed-contents');
 		this.$target = $('.jsc-fixed-widget');
-		this.targetTop = this.$target.offset().top;
 		this.contentHtml = this.$contents.innerHTML;
 	},
 	bindEvent: function(){
@@ -20,10 +19,11 @@ TOKKA.TOP.FIXED = {
 		var _self = this;
 		this.$window.on('scroll load', function(){
 			scrollValue = _self.$window.scrollTop();
+				console.log(_self.$target.children().length);
 			if (_self.$target.children().length > 0) {
 				_self.$target.html(_self.contentHtml);
 			}
-			if (scrollValue > _self.targetTop) {
+			if (scrollValue > this.$target.offset().top) {
 				console.log(scrollValue);
 				console.log(_self.targetTop);
 				_self.$target.addClass('isFixed');
