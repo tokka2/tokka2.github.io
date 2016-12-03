@@ -9,10 +9,9 @@ TOKKA.TOP.FIXED = {
 	},
 	setParameters: function(){
 		this.$window = $(window);
-		this.windowHeight = this.$window.height()
 		this.$contents = $('.jsc-fixed-contents');
-		this.$target = $('.jsc-fixed-widget');
 		this.contentHtml = this.$contents.html();
+		this.$target = $('.jsc-fixed-widget');
 	},
 	bindEvent: function(){
 		var scrollValue = 0;
