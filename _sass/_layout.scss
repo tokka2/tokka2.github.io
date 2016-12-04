@@ -157,9 +157,8 @@
 }
 
 .sidebar-module.pc {
-	display: none;
-	@include media-query($on-laptop) {
-		display: block;
+	@include media-query($on-palm) {
+		display: none;
 	}
 }
 .sidebar-module.isFixed {
