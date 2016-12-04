@@ -157,9 +157,9 @@
 }
 
 .sidebar-module.pc {
-	display: none
+	display: none;
 	@include media-query($on-laptop) {
-		display: block
+		display: block;
 	}
 }
 .sidebar-module.isFided {
