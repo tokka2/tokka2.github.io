@@ -161,7 +161,8 @@
 		display: none;
 	}
 }
-.sidebar-module.isFixed {
+.sidebar-module.isFixed > .fixed-contents {
+	padding: 10px;
 	position: fixed;
 	top: 0;
 }
