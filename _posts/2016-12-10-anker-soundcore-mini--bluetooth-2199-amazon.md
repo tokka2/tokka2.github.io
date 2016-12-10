@@ -23,4 +23,4 @@ categories:
 
 <br clear="all" />激安特価 <span class="tokka-price"><strong>2,199</strong></span> 円（税込）**送料無料**
 
-Amazonにて激安特価情報を見る： <span class="fs150p"><a https://www.amazon.co.jp/gp/product/B01HXFISS0/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B01HXFISS0&linkCode=as2&tag=tokkajohotsu-22" target="_blank">Anker SoundCore mini</a></span>
+Amazonにて激安特価情報を見る： <span class="fs150p"><a href="https://www.amazon.co.jp/gp/product/B01HXFISS0/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B01HXFISS0&linkCode=as2&tag=tokkajohotsu-22" target="_blank">Anker SoundCore mini</a></span>
