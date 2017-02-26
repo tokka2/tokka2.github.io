@@ -2,7 +2,7 @@
 title: 【27日15:00迄】USB外付ハードディスク3TBが特価7,980円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2017-01-26 6:20:10
+date: 2017-01-26 7:48:10
 permalink: /usbhdd/io-data-usb3tb-hdc-la3.0-nttx-7980.html
 categories:
 - 外付けHDD
