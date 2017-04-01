@@ -2,7 +2,7 @@
 title: Amazonで1600件以上のカスタマーレビューのついたBluetoothワイヤレスヘッドホンが特価2,099円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2017-04-01 7:05:10
+date: 2017-04-01 14:38:10
 permalink: /bluetooth/taotronics-bluetooth-aptx-ipx5-tt-bh07-2099-amazon.html
 categories:
   - ブルートゥース イヤホン
