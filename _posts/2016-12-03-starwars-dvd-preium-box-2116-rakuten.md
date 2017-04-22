@@ -10,6 +10,7 @@ categories:
 
 <div class="img-bg2 img_L">
 <a href="//hb.afl.rakuten.co.jp/hgc/012cde47.e006c961.05c4d760.e09cc467/?pc=http%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F13848005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F17881574%2F&scid=af_item_img&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJkb3duIiwiY29tIjoxLCJjb21wIjoiZG93biIsInByaWNlIjowLCJib3IiOjEsImNvbCI6MCwidGFyIjoxfQ%3D%3D" target="_blank" style="word-wrap:break-word;"  ><img src="//hbb.afl.rakuten.co.jp/hgb/012cde47.e006c961.05c4d760.e09cc467/?me_id=1213310&item_id=17881574&m=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fbook%2Fcabinet%2F2931%2F4959241762931.jpg%3F_ex%3D80x80&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fbook%2Fcabinet%2F2931%2F4959241762931.jpg%3F_ex%3D240x240&s=240x240&t=pict" border="0" style="margin:2px" alt="" title=""></a>
+</div>
 
 ### 【タイムセール】スター・ウォーズ／フォースの覚醒 MovieNEXプレミアムBOX
 <!--more-->
