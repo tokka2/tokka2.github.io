@@ -28,7 +28,7 @@ categories:
 * 安心の日本製!長期3年保証
 * スマホの写真をリアルタイムでシェアできる!「なすカメ」アプリに対応
 
-<br clear="all" />販売期間	2017年05月11日19時00分～2017年05月17日23時59分<br>
+<br clear="all" />販売期間	2017年05月12日19時00分～2017年05月17日23時59分<br>
 激安特価 <span class="tokka-price"><strong>	9,980</strong></span> 円（税込） **送料無料**
 
 楽天にて激安特価情報を見る： <span class="fs150p"><a href="//hb.afl.rakuten.co.jp/hgc/0a708d69.b8a87d02.0a708d6a.55a4c12c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fioplaza%2F3200-01408192-00000001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fioplaza%2Fi%2F10298152%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJkb3duIiwiY29tIjoxLCJjb21wIjoiZG93biIsInByaWNlIjowLCJib3IiOjEsImNvbCI6MH0%3D" target="_blank" style="word-wrap:break-word;" >IO DATA HDL-AA2</a></span>
