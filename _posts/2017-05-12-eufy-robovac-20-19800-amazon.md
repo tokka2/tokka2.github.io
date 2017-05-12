@@ -2,9 +2,10 @@
 title: 自動掃除機ロボットが特価19,800円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2017-05-04 2:55:10
+date: 2017-05-12 1:50:10
 permalink: /cleaner/eufy-robovac-20-19800-amazon.html
 categories:
+  - 特価
   - 掃除機
   - 自動掃除機ロボット
 ---
