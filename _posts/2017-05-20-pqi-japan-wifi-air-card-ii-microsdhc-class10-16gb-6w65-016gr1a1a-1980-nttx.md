@@ -2,7 +2,7 @@
 title: WiFi機能付きSDアダプター Air Cardが特価1,980円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2017-05-12 02:04:10
+date: 2017-05-20 00:42:10
 permalink: /microsdhc/pqi-japan-wifi-air-card-ii-microsdhc-class10-16gb-6w65-016gr1a1a-1980-nttx.html
 categories:
 - 特価
