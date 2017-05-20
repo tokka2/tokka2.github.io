@@ -2,7 +2,7 @@
 title: Android搭載 5.5インチスマートフォン VAIO Phone A が特価23,980円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2017-05-20 00:06:10
+date: 2017-05-20 00:36:10
 permalink: /smartphone/vaio-phone-a-vpa0511s-23980-nttx.html
 categories:
 - 特価
