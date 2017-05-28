@@ -1,8 +1,8 @@
 ---
-title: WiFi機能付きSDアダプター Air Cardが特価1,980円！送料無料！
+title: 【明日朝10時まで】WiFi機能付きSDアダプター Air Cardが特価1,580円！送料無料！
 author: 激安・格安・特価情報ツウ
 layout: post
-date: 2017-05-20 00:42:10
+date: 2017-05-28 04:27:10
 permalink: /microsdhc/pqi-japan-wifi-air-card-ii-microsdhc-class10-16gb-6w65-016gr1a1a-1980-nttx.html
 categories:
 - 特価
@@ -24,7 +24,7 @@ categories:
 * 誤書込防止スイッチつき
 * iOS/Android対応の無料アプリ“PQIAirCard+"を使って簡単操作
 
-<br clear="all" />激安特価 <span class="tokka-price"><strong>1,980</strong></span> 円（税込）**送料無料**
+<br clear="all" />価格1,980 = 期間限定クーポン400円 = 激安特価 <span class="tokka-price"><strong>1,580</strong></span> 円（税込）**送料無料**
 ＜価格比較サイト最安値: 2,816円＞
 
 NTT-Xにて激安特価情報を見る： <span class="fs150p"><a href="//px.a8.net/svt/ejp?a8mat=ZYP6S+8IMA3E+S1Q+BWGDT&#038;a8ejpredirect=//nttxstore.jp/_II_PW15346285" target="_blank">PQI 6W65-016GR1A1A</a></span>
